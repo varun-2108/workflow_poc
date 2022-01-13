@@ -1,0 +1,744 @@
+[2022-01-12 20:35:13,822] {processor.py:163} INFO - Started process (PID=28091) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:35:13,822] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 20:35:13,822] {logging_mixin.py:109} INFO - [2022-01-12 20:35:13,822] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:35:13,851] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:35:13,864] {logging_mixin.py:109} INFO - [2022-01-12 20:35:13,864] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 20:35:13,872] {logging_mixin.py:109} INFO - [2022-01-12 20:35:13,872] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 20:35:13,876] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.055 seconds
+[2022-01-12 20:36:57,651] {processor.py:163} INFO - Started process (PID=28188) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:36:57,651] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 20:36:57,651] {logging_mixin.py:109} INFO - [2022-01-12 20:36:57,651] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:36:57,674] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:36:57,686] {logging_mixin.py:109} INFO - [2022-01-12 20:36:57,686] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 20:36:57,693] {logging_mixin.py:109} INFO - [2022-01-12 20:36:57,693] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 20:36:57,697] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.047 seconds
+[2022-01-12 20:38:07,538] {processor.py:163} INFO - Started process (PID=28257) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:38:07,538] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 20:38:07,539] {logging_mixin.py:109} INFO - [2022-01-12 20:38:07,538] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:38:07,564] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:38:07,576] {logging_mixin.py:109} INFO - [2022-01-12 20:38:07,576] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 20:38:07,583] {logging_mixin.py:109} INFO - [2022-01-12 20:38:07,583] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 20:38:07,589] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.051 seconds
+[2022-01-12 20:39:30,645] {processor.py:163} INFO - Started process (PID=28333) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:39:30,646] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 20:39:30,646] {logging_mixin.py:109} INFO - [2022-01-12 20:39:30,646] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:39:30,678] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:39:30,692] {logging_mixin.py:109} INFO - [2022-01-12 20:39:30,692] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 20:39:30,700] {logging_mixin.py:109} INFO - [2022-01-12 20:39:30,700] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 20:39:30,707] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.062 seconds
+[2022-01-12 20:41:00,826] {processor.py:163} INFO - Started process (PID=28403) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:41:00,827] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 20:41:00,827] {logging_mixin.py:109} INFO - [2022-01-12 20:41:00,827] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:41:00,899] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:41:00,929] {logging_mixin.py:109} INFO - [2022-01-12 20:41:00,928] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 20:41:00,947] {logging_mixin.py:109} INFO - [2022-01-12 20:41:00,947] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 20:41:00,958] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.134 seconds
+[2022-01-12 20:45:30,408] {processor.py:163} INFO - Started process (PID=28665) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:45:30,414] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 20:45:30,416] {logging_mixin.py:109} INFO - [2022-01-12 20:45:30,416] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:45:30,629] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:45:30,718] {logging_mixin.py:109} INFO - [2022-01-12 20:45:30,716] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 20:45:30,767] {logging_mixin.py:109} INFO - [2022-01-12 20:45:30,767] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 20:45:30,799] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.394 seconds
+[2022-01-12 20:48:19,331] {processor.py:163} INFO - Started process (PID=28859) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:48:19,332] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 20:48:19,333] {logging_mixin.py:109} INFO - [2022-01-12 20:48:19,333] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:48:19,413] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:48:19,443] {logging_mixin.py:109} INFO - [2022-01-12 20:48:19,443] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 20:48:19,468] {logging_mixin.py:109} INFO - [2022-01-12 20:48:19,468] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 20:48:19,483] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.153 seconds
+[2022-01-12 20:59:43,415] {processor.py:163} INFO - Started process (PID=29526) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:59:43,416] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 20:59:43,417] {logging_mixin.py:109} INFO - [2022-01-12 20:59:43,417] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:59:43,444] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 20:59:43,456] {logging_mixin.py:109} INFO - [2022-01-12 20:59:43,456] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 20:59:43,464] {logging_mixin.py:109} INFO - [2022-01-12 20:59:43,464] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 20:59:43,471] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.056 seconds
+[2022-01-12 21:01:07,498] {processor.py:163} INFO - Started process (PID=29609) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:01:07,498] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:01:07,498] {logging_mixin.py:109} INFO - [2022-01-12 21:01:07,498] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:01:07,529] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:01:07,543] {logging_mixin.py:109} INFO - [2022-01-12 21:01:07,543] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:01:07,551] {logging_mixin.py:109} INFO - [2022-01-12 21:01:07,551] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:01:07,556] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.058 seconds
+[2022-01-12 21:02:27,390] {processor.py:163} INFO - Started process (PID=29700) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:02:27,404] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:02:27,405] {logging_mixin.py:109} INFO - [2022-01-12 21:02:27,405] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:02:27,437] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:02:27,454] {logging_mixin.py:109} INFO - [2022-01-12 21:02:27,454] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:02:27,465] {logging_mixin.py:109} INFO - [2022-01-12 21:02:27,465] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:02:27,472] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.082 seconds
+[2022-01-12 21:03:50,305] {processor.py:163} INFO - Started process (PID=29795) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:03:50,306] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:03:50,306] {logging_mixin.py:109} INFO - [2022-01-12 21:03:50,306] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:03:50,338] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:03:50,353] {logging_mixin.py:109} INFO - [2022-01-12 21:03:50,353] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:03:50,363] {logging_mixin.py:109} INFO - [2022-01-12 21:03:50,363] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:03:50,370] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.065 seconds
+[2022-01-12 21:05:19,166] {processor.py:163} INFO - Started process (PID=29873) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:05:19,166] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:05:19,166] {logging_mixin.py:109} INFO - [2022-01-12 21:05:19,166] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:05:19,198] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:05:19,212] {logging_mixin.py:109} INFO - [2022-01-12 21:05:19,212] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:05:19,221] {logging_mixin.py:109} INFO - [2022-01-12 21:05:19,221] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:05:19,228] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.062 seconds
+[2022-01-12 21:06:42,959] {processor.py:163} INFO - Started process (PID=29950) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:06:42,960] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:06:42,960] {logging_mixin.py:109} INFO - [2022-01-12 21:06:42,960] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:06:42,998] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:06:43,015] {logging_mixin.py:109} INFO - [2022-01-12 21:06:43,014] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:06:43,024] {logging_mixin.py:109} INFO - [2022-01-12 21:06:43,024] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:06:43,030] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.072 seconds
+[2022-01-12 21:08:13,024] {processor.py:163} INFO - Started process (PID=30036) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:08:13,024] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:08:13,025] {logging_mixin.py:109} INFO - [2022-01-12 21:08:13,025] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:08:13,188] {processor.py:174} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedTable: relation "dag" does not exist
+LINE 2: FROM dag 
+             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/dag_processing/processor.py", line 165, in _run_file_processor
+    result: Tuple[int, int] = dag_file_processor.process_file(
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/dag_processing/processor.py", line 651, in process_file
+    self._deactivate_missing_dags(session, dagbag, file_path)
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/dag_processing/processor.py", line 685, in _deactivate_missing_dags
+    session.query(DagModel)
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 4063, in update
+    update_op.exec_()
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/orm/persistence.py", line 1696, in exec_
+    self._do_pre_synchronize()
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/orm/persistence.py", line 1805, in _do_pre_synchronize
+    self.matched_rows = session.execute(
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 1295, in execute
+    return self._connection_for_bind(bind, close_with_result=True).execute(
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedTable) relation "dag" does not exist
+LINE 2: FROM dag 
+             ^
+
+[SQL: SELECT dag.dag_id AS dag_dag_id 
+FROM dag 
+WHERE dag.fileloc = %(fileloc_1)s AND dag.is_active AND dag.dag_id NOT IN (%(dag_id_1)s)]
+[parameters: {'fileloc_1': '/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py', 'dag_id_1': 'example_branch_datetime_operator_2'}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2022-01-12 21:10:35,641] {processor.py:163} INFO - Started process (PID=30315) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:10:35,642] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:10:35,642] {logging_mixin.py:109} INFO - [2022-01-12 21:10:35,642] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:10:35,702] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:10:35,728] {logging_mixin.py:109} INFO - [2022-01-12 21:10:35,728] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:10:35,746] {logging_mixin.py:109} INFO - [2022-01-12 21:10:35,746] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:10:35,756] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.116 seconds
+[2022-01-12 21:11:31,437] {processor.py:163} INFO - Started process (PID=30512) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:11:31,437] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:11:31,438] {logging_mixin.py:109} INFO - [2022-01-12 21:11:31,438] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:11:31,478] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:11:31,497] {logging_mixin.py:109} INFO - [2022-01-12 21:11:31,497] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:11:31,510] {logging_mixin.py:109} INFO - [2022-01-12 21:11:31,510] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:11:31,517] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.081 seconds
+[2022-01-12 21:12:43,247] {processor.py:163} INFO - Started process (PID=30718) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:12:43,247] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:12:43,248] {logging_mixin.py:109} INFO - [2022-01-12 21:12:43,248] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:12:43,318] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:12:43,361] {logging_mixin.py:109} INFO - [2022-01-12 21:12:43,361] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:12:43,494] {logging_mixin.py:109} INFO - [2022-01-12 21:12:43,494] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:12:43,509] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.264 seconds
+[2022-01-12 21:13:57,846] {processor.py:163} INFO - Started process (PID=30921) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:13:57,847] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:13:57,847] {logging_mixin.py:109} INFO - [2022-01-12 21:13:57,847] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:13:57,897] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:13:57,919] {logging_mixin.py:109} INFO - [2022-01-12 21:13:57,919] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:13:57,934] {logging_mixin.py:109} INFO - [2022-01-12 21:13:57,934] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:13:57,942] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.097 seconds
+[2022-01-12 21:15:14,870] {processor.py:163} INFO - Started process (PID=31069) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:15:14,871] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:15:14,871] {logging_mixin.py:109} INFO - [2022-01-12 21:15:14,871] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:15:14,912] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:15:14,929] {logging_mixin.py:109} INFO - [2022-01-12 21:15:14,929] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:15:14,940] {logging_mixin.py:109} INFO - [2022-01-12 21:15:14,940] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:15:14,946] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.077 seconds
+[2022-01-12 21:15:57,795] {processor.py:163} INFO - Started process (PID=31180) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:15:57,796] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:15:57,797] {logging_mixin.py:109} INFO - [2022-01-12 21:15:57,797] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:15:57,874] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:15:57,906] {logging_mixin.py:109} INFO - [2022-01-12 21:15:57,906] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:15:57,931] {logging_mixin.py:109} INFO - [2022-01-12 21:15:57,930] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:15:57,944] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.150 seconds
+[2022-01-12 21:17:44,786] {processor.py:163} INFO - Started process (PID=31395) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:17:44,787] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:17:44,788] {logging_mixin.py:109} INFO - [2022-01-12 21:17:44,788] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:17:44,869] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:17:44,903] {logging_mixin.py:109} INFO - [2022-01-12 21:17:44,902] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:17:44,926] {logging_mixin.py:109} INFO - [2022-01-12 21:17:44,926] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:17:44,938] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.154 seconds
+[2022-01-12 21:19:27,307] {processor.py:163} INFO - Started process (PID=31637) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:19:27,307] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:19:27,308] {logging_mixin.py:109} INFO - [2022-01-12 21:19:27,308] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:19:27,379] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:19:27,412] {logging_mixin.py:109} INFO - [2022-01-12 21:19:27,412] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:19:27,438] {logging_mixin.py:109} INFO - [2022-01-12 21:19:27,438] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:19:27,499] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.193 seconds
+[2022-01-12 21:21:10,456] {processor.py:163} INFO - Started process (PID=31851) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:21:10,463] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:21:10,464] {logging_mixin.py:109} INFO - [2022-01-12 21:21:10,463] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:21:10,533] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:21:10,564] {logging_mixin.py:109} INFO - [2022-01-12 21:21:10,564] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:21:10,585] {logging_mixin.py:109} INFO - [2022-01-12 21:21:10,585] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:21:10,596] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.141 seconds
+[2022-01-12 21:22:32,944] {processor.py:163} INFO - Started process (PID=32122) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:22:32,944] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:22:32,945] {logging_mixin.py:109} INFO - [2022-01-12 21:22:32,945] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:22:33,000] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:22:33,025] {logging_mixin.py:109} INFO - [2022-01-12 21:22:33,025] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:22:33,041] {logging_mixin.py:109} INFO - [2022-01-12 21:22:33,041] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:22:33,049] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.106 seconds
+[2022-01-12 21:23:46,102] {processor.py:163} INFO - Started process (PID=32392) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:23:46,103] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:23:46,103] {logging_mixin.py:109} INFO - [2022-01-12 21:23:46,103] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:23:46,168] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:23:46,195] {logging_mixin.py:109} INFO - [2022-01-12 21:23:46,194] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:23:46,213] {logging_mixin.py:109} INFO - [2022-01-12 21:23:46,212] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:23:46,222] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.121 seconds
+[2022-01-12 21:25:09,918] {processor.py:163} INFO - Started process (PID=32678) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:25:09,918] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:25:09,919] {logging_mixin.py:109} INFO - [2022-01-12 21:25:09,919] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:25:09,979] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:25:10,007] {logging_mixin.py:109} INFO - [2022-01-12 21:25:10,006] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:25:10,026] {logging_mixin.py:109} INFO - [2022-01-12 21:25:10,025] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:25:10,035] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.118 seconds
+[2022-01-12 21:26:29,330] {processor.py:163} INFO - Started process (PID=32879) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:26:29,331] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:26:29,331] {logging_mixin.py:109} INFO - [2022-01-12 21:26:29,331] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:26:29,385] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:26:29,408] {logging_mixin.py:109} INFO - [2022-01-12 21:26:29,408] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:26:29,424] {logging_mixin.py:109} INFO - [2022-01-12 21:26:29,424] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:26:29,434] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.105 seconds
+[2022-01-12 21:27:43,582] {processor.py:163} INFO - Started process (PID=33079) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:27:43,584] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:27:43,584] {logging_mixin.py:109} INFO - [2022-01-12 21:27:43,584] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:27:43,639] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:27:43,662] {logging_mixin.py:109} INFO - [2022-01-12 21:27:43,662] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:27:43,678] {logging_mixin.py:109} INFO - [2022-01-12 21:27:43,678] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:27:43,687] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.105 seconds
+[2022-01-12 21:28:51,430] {processor.py:163} INFO - Started process (PID=33276) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:28:51,432] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:28:51,432] {logging_mixin.py:109} INFO - [2022-01-12 21:28:51,432] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:28:51,472] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:28:51,489] {logging_mixin.py:109} INFO - [2022-01-12 21:28:51,489] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:28:51,501] {logging_mixin.py:109} INFO - [2022-01-12 21:28:51,501] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:28:51,509] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.079 seconds
+[2022-01-12 21:29:48,090] {processor.py:163} INFO - Started process (PID=33476) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:29:48,091] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:29:48,092] {logging_mixin.py:109} INFO - [2022-01-12 21:29:48,092] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:29:48,138] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:29:48,157] {logging_mixin.py:109} INFO - [2022-01-12 21:29:48,157] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:29:48,172] {logging_mixin.py:109} INFO - [2022-01-12 21:29:48,171] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:29:48,179] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.089 seconds
+[2022-01-12 21:31:15,471] {processor.py:163} INFO - Started process (PID=33686) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:31:15,473] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:31:15,473] {logging_mixin.py:109} INFO - [2022-01-12 21:31:15,473] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:31:15,543] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:31:15,570] {logging_mixin.py:109} INFO - [2022-01-12 21:31:15,570] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:31:15,588] {logging_mixin.py:109} INFO - [2022-01-12 21:31:15,588] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:31:15,597] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.127 seconds
+[2022-01-12 21:32:33,645] {processor.py:163} INFO - Started process (PID=33884) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:32:33,646] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:32:33,647] {logging_mixin.py:109} INFO - [2022-01-12 21:32:33,647] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:32:33,744] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:32:33,772] {logging_mixin.py:109} INFO - [2022-01-12 21:32:33,772] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:32:33,787] {logging_mixin.py:109} INFO - [2022-01-12 21:32:33,787] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:32:33,795] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.151 seconds
+[2022-01-12 21:33:43,931] {processor.py:163} INFO - Started process (PID=34109) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:33:43,932] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:33:43,933] {logging_mixin.py:109} INFO - [2022-01-12 21:33:43,933] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:33:43,998] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:33:44,029] {logging_mixin.py:109} INFO - [2022-01-12 21:33:44,029] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:33:44,049] {logging_mixin.py:109} INFO - [2022-01-12 21:33:44,049] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:33:44,058] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.128 seconds
+[2022-01-12 21:34:58,447] {processor.py:163} INFO - Started process (PID=34312) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:34:58,448] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:34:58,449] {logging_mixin.py:109} INFO - [2022-01-12 21:34:58,449] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:34:58,504] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:34:58,528] {logging_mixin.py:109} INFO - [2022-01-12 21:34:58,528] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:34:58,546] {logging_mixin.py:109} INFO - [2022-01-12 21:34:58,546] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:34:58,555] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.109 seconds
+[2022-01-12 21:36:10,209] {processor.py:163} INFO - Started process (PID=34506) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:36:10,209] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:36:10,210] {logging_mixin.py:109} INFO - [2022-01-12 21:36:10,210] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:36:10,259] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:36:10,281] {logging_mixin.py:109} INFO - [2022-01-12 21:36:10,281] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:36:10,296] {logging_mixin.py:109} INFO - [2022-01-12 21:36:10,296] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:36:10,313] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.105 seconds
+[2022-01-12 21:37:22,093] {processor.py:163} INFO - Started process (PID=34705) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:37:22,093] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:37:22,094] {logging_mixin.py:109} INFO - [2022-01-12 21:37:22,094] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:37:22,150] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:37:22,174] {logging_mixin.py:109} INFO - [2022-01-12 21:37:22,174] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:37:22,192] {logging_mixin.py:109} INFO - [2022-01-12 21:37:22,192] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:37:22,201] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.110 seconds
+[2022-01-12 21:38:25,967] {processor.py:163} INFO - Started process (PID=34899) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:38:25,967] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:38:25,967] {logging_mixin.py:109} INFO - [2022-01-12 21:38:25,967] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:38:26,015] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:38:26,036] {logging_mixin.py:109} INFO - [2022-01-12 21:38:26,036] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:38:26,051] {logging_mixin.py:109} INFO - [2022-01-12 21:38:26,051] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:38:26,059] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.093 seconds
+[2022-01-12 21:39:37,481] {processor.py:163} INFO - Started process (PID=35094) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:39:37,481] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:39:37,482] {logging_mixin.py:109} INFO - [2022-01-12 21:39:37,481] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:39:37,540] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:39:37,564] {logging_mixin.py:109} INFO - [2022-01-12 21:39:37,564] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:39:37,582] {logging_mixin.py:109} INFO - [2022-01-12 21:39:37,582] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:39:37,591] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.112 seconds
+[2022-01-12 21:40:47,320] {processor.py:163} INFO - Started process (PID=35287) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:40:47,321] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:40:47,321] {logging_mixin.py:109} INFO - [2022-01-12 21:40:47,321] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:40:47,368] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:40:47,387] {logging_mixin.py:109} INFO - [2022-01-12 21:40:47,387] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:40:47,400] {logging_mixin.py:109} INFO - [2022-01-12 21:40:47,400] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:40:47,407] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.089 seconds
+[2022-01-12 21:41:37,814] {processor.py:163} INFO - Started process (PID=35482) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:41:37,815] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:41:37,815] {logging_mixin.py:109} INFO - [2022-01-12 21:41:37,815] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:41:37,853] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:41:37,869] {logging_mixin.py:109} INFO - [2022-01-12 21:41:37,869] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:41:37,880] {logging_mixin.py:109} INFO - [2022-01-12 21:41:37,880] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:41:37,886] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.072 seconds
+[2022-01-12 21:42:51,456] {processor.py:163} INFO - Started process (PID=35684) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:42:51,456] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:42:51,457] {logging_mixin.py:109} INFO - [2022-01-12 21:42:51,457] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:42:51,504] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:42:51,524] {logging_mixin.py:109} INFO - [2022-01-12 21:42:51,524] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:42:51,537] {logging_mixin.py:109} INFO - [2022-01-12 21:42:51,537] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:42:51,544] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.089 seconds
+[2022-01-12 21:43:58,004] {processor.py:163} INFO - Started process (PID=35915) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:43:58,005] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:43:58,005] {logging_mixin.py:109} INFO - [2022-01-12 21:43:58,005] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:43:58,050] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:43:58,068] {logging_mixin.py:109} INFO - [2022-01-12 21:43:58,068] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:43:58,082] {logging_mixin.py:109} INFO - [2022-01-12 21:43:58,082] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:43:58,088] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.085 seconds
+[2022-01-12 21:46:06,021] {processor.py:163} INFO - Started process (PID=36135) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:46:06,022] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:46:06,022] {logging_mixin.py:109} INFO - [2022-01-12 21:46:06,022] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:46:06,071] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:46:06,093] {logging_mixin.py:109} INFO - [2022-01-12 21:46:06,093] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:46:06,124] {logging_mixin.py:109} INFO - [2022-01-12 21:46:06,124] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:46:06,131] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.110 seconds
+[2022-01-12 21:47:30,708] {processor.py:163} INFO - Started process (PID=36338) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:47:30,708] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:47:30,709] {logging_mixin.py:109} INFO - [2022-01-12 21:47:30,709] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:47:30,761] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:47:30,784] {logging_mixin.py:109} INFO - [2022-01-12 21:47:30,783] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:47:30,800] {logging_mixin.py:109} INFO - [2022-01-12 21:47:30,800] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:47:30,808] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.101 seconds
+[2022-01-12 21:48:32,473] {processor.py:163} INFO - Started process (PID=36537) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:48:32,473] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:48:32,473] {logging_mixin.py:109} INFO - [2022-01-12 21:48:32,473] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:48:32,526] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:48:32,547] {logging_mixin.py:109} INFO - [2022-01-12 21:48:32,547] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:48:32,561] {logging_mixin.py:109} INFO - [2022-01-12 21:48:32,561] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:48:32,569] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.097 seconds
+[2022-01-12 21:49:57,668] {processor.py:163} INFO - Started process (PID=36760) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:49:57,669] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:49:57,670] {logging_mixin.py:109} INFO - [2022-01-12 21:49:57,669] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:49:57,712] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:49:57,730] {logging_mixin.py:109} INFO - [2022-01-12 21:49:57,730] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:49:57,744] {logging_mixin.py:109} INFO - [2022-01-12 21:49:57,744] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:49:57,751] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.084 seconds
+[2022-01-12 21:50:57,441] {processor.py:163} INFO - Started process (PID=36967) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:50:57,443] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:50:57,443] {logging_mixin.py:109} INFO - [2022-01-12 21:50:57,443] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:50:57,512] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:50:57,537] {logging_mixin.py:109} INFO - [2022-01-12 21:50:57,537] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:50:57,555] {logging_mixin.py:109} INFO - [2022-01-12 21:50:57,555] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:50:57,563] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.124 seconds
+[2022-01-12 21:52:10,537] {processor.py:163} INFO - Started process (PID=37169) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:52:10,537] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:52:10,538] {logging_mixin.py:109} INFO - [2022-01-12 21:52:10,538] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:52:10,585] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:52:10,607] {logging_mixin.py:109} INFO - [2022-01-12 21:52:10,607] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:52:10,622] {logging_mixin.py:109} INFO - [2022-01-12 21:52:10,622] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:52:10,630] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.094 seconds
+[2022-01-12 21:53:17,889] {processor.py:163} INFO - Started process (PID=37369) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:53:17,889] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:53:17,890] {logging_mixin.py:109} INFO - [2022-01-12 21:53:17,890] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:53:17,949] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:53:17,974] {logging_mixin.py:109} INFO - [2022-01-12 21:53:17,974] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:53:17,992] {logging_mixin.py:109} INFO - [2022-01-12 21:53:17,992] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:53:18,001] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.114 seconds
+[2022-01-12 21:54:29,670] {processor.py:163} INFO - Started process (PID=37561) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:54:29,670] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:54:29,671] {logging_mixin.py:109} INFO - [2022-01-12 21:54:29,671] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:54:29,723] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:54:29,747] {logging_mixin.py:109} INFO - [2022-01-12 21:54:29,747] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:54:29,767] {logging_mixin.py:109} INFO - [2022-01-12 21:54:29,767] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:54:29,784] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.116 seconds
+[2022-01-12 21:55:46,240] {processor.py:163} INFO - Started process (PID=37757) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:55:46,241] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:55:46,242] {logging_mixin.py:109} INFO - [2022-01-12 21:55:46,241] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:55:46,306] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:55:46,338] {logging_mixin.py:109} INFO - [2022-01-12 21:55:46,337] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:55:46,362] {logging_mixin.py:109} INFO - [2022-01-12 21:55:46,362] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:55:46,372] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.133 seconds
+[2022-01-12 21:56:59,048] {processor.py:163} INFO - Started process (PID=37955) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:56:59,049] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:56:59,049] {logging_mixin.py:109} INFO - [2022-01-12 21:56:59,049] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:56:59,088] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:56:59,105] {logging_mixin.py:109} INFO - [2022-01-12 21:56:59,105] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:56:59,116] {logging_mixin.py:109} INFO - [2022-01-12 21:56:59,116] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:56:59,123] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.076 seconds
+[2022-01-12 21:57:52,225] {processor.py:163} INFO - Started process (PID=38153) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:57:52,225] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:57:52,226] {logging_mixin.py:109} INFO - [2022-01-12 21:57:52,226] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:57:52,267] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:57:52,285] {logging_mixin.py:109} INFO - [2022-01-12 21:57:52,285] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:57:52,298] {logging_mixin.py:109} INFO - [2022-01-12 21:57:52,297] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:57:52,304] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.080 seconds
+[2022-01-12 21:58:50,520] {processor.py:163} INFO - Started process (PID=38352) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:58:50,521] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 21:58:50,521] {logging_mixin.py:109} INFO - [2022-01-12 21:58:50,521] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:58:50,578] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 21:58:50,603] {logging_mixin.py:109} INFO - [2022-01-12 21:58:50,602] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 21:58:50,619] {logging_mixin.py:109} INFO - [2022-01-12 21:58:50,619] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 21:58:50,628] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.109 seconds
+[2022-01-12 22:00:10,333] {processor.py:163} INFO - Started process (PID=38570) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:00:10,334] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:00:10,335] {logging_mixin.py:109} INFO - [2022-01-12 22:00:10,335] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:00:10,441] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:00:10,487] {logging_mixin.py:109} INFO - [2022-01-12 22:00:10,487] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:00:10,515] {logging_mixin.py:109} INFO - [2022-01-12 22:00:10,515] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:00:10,528] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.197 seconds
+[2022-01-12 22:01:25,238] {processor.py:163} INFO - Started process (PID=38773) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:01:25,238] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:01:25,239] {logging_mixin.py:109} INFO - [2022-01-12 22:01:25,238] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:01:25,297] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:01:25,332] {logging_mixin.py:109} INFO - [2022-01-12 22:01:25,332] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:01:25,352] {logging_mixin.py:109} INFO - [2022-01-12 22:01:25,352] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:01:25,376] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.140 seconds
+[2022-01-12 22:02:54,711] {processor.py:163} INFO - Started process (PID=38980) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:02:54,712] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:02:54,712] {logging_mixin.py:109} INFO - [2022-01-12 22:02:54,712] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:02:54,786] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:02:54,818] {logging_mixin.py:109} INFO - [2022-01-12 22:02:54,818] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:02:54,841] {logging_mixin.py:109} INFO - [2022-01-12 22:02:54,841] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:02:54,854] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.144 seconds
+[2022-01-12 22:03:59,662] {processor.py:163} INFO - Started process (PID=39210) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:03:59,662] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:03:59,663] {logging_mixin.py:109} INFO - [2022-01-12 22:03:59,663] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:03:59,704] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:03:59,722] {logging_mixin.py:109} INFO - [2022-01-12 22:03:59,721] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:03:59,733] {logging_mixin.py:109} INFO - [2022-01-12 22:03:59,733] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:03:59,740] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.079 seconds
+[2022-01-12 22:05:00,061] {processor.py:163} INFO - Started process (PID=39426) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:05:00,062] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:05:00,062] {logging_mixin.py:109} INFO - [2022-01-12 22:05:00,062] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:05:00,109] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:05:00,128] {logging_mixin.py:109} INFO - [2022-01-12 22:05:00,128] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:05:00,142] {logging_mixin.py:109} INFO - [2022-01-12 22:05:00,142] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:05:00,149] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.089 seconds
+[2022-01-12 22:06:02,923] {processor.py:163} INFO - Started process (PID=39643) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:06:02,924] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:06:02,924] {logging_mixin.py:109} INFO - [2022-01-12 22:06:02,924] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:06:02,980] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:06:03,002] {logging_mixin.py:109} INFO - [2022-01-12 22:06:03,002] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:06:03,018] {logging_mixin.py:109} INFO - [2022-01-12 22:06:03,018] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:06:03,026] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.104 seconds
+[2022-01-12 22:07:19,010] {processor.py:163} INFO - Started process (PID=39842) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:07:19,011] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:07:19,011] {logging_mixin.py:109} INFO - [2022-01-12 22:07:19,011] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:07:19,056] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:07:19,076] {logging_mixin.py:109} INFO - [2022-01-12 22:07:19,076] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:07:19,090] {logging_mixin.py:109} INFO - [2022-01-12 22:07:19,090] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:07:19,098] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.088 seconds
+[2022-01-12 22:08:18,260] {processor.py:163} INFO - Started process (PID=40038) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:08:18,261] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:08:18,262] {logging_mixin.py:109} INFO - [2022-01-12 22:08:18,262] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:08:18,310] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:08:18,330] {logging_mixin.py:109} INFO - [2022-01-12 22:08:18,330] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:08:18,342] {logging_mixin.py:109} INFO - [2022-01-12 22:08:18,342] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:08:18,351] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.092 seconds
+[2022-01-12 22:09:17,614] {processor.py:163} INFO - Started process (PID=40236) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:09:17,615] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:09:17,615] {logging_mixin.py:109} INFO - [2022-01-12 22:09:17,615] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:09:17,662] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:09:17,682] {logging_mixin.py:109} INFO - [2022-01-12 22:09:17,682] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:09:17,697] {logging_mixin.py:109} INFO - [2022-01-12 22:09:17,696] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:09:17,704] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.092 seconds
+[2022-01-12 22:10:17,558] {processor.py:163} INFO - Started process (PID=40435) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:10:17,558] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:10:17,559] {logging_mixin.py:109} INFO - [2022-01-12 22:10:17,558] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:10:17,606] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:10:17,625] {logging_mixin.py:109} INFO - [2022-01-12 22:10:17,625] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:10:17,640] {logging_mixin.py:109} INFO - [2022-01-12 22:10:17,640] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:10:17,647] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.091 seconds
+[2022-01-12 22:11:21,948] {processor.py:163} INFO - Started process (PID=40630) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:11:21,949] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:11:21,950] {logging_mixin.py:109} INFO - [2022-01-12 22:11:21,949] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:11:22,008] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:11:22,033] {logging_mixin.py:109} INFO - [2022-01-12 22:11:22,033] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:11:22,051] {logging_mixin.py:109} INFO - [2022-01-12 22:11:22,051] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:11:22,060] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.112 seconds
+[2022-01-12 22:12:34,904] {processor.py:163} INFO - Started process (PID=40836) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:12:34,905] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:12:34,905] {logging_mixin.py:109} INFO - [2022-01-12 22:12:34,905] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:12:34,955] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:12:34,977] {logging_mixin.py:109} INFO - [2022-01-12 22:12:34,977] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:12:34,991] {logging_mixin.py:109} INFO - [2022-01-12 22:12:34,991] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:12:34,998] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.095 seconds
+[2022-01-12 22:13:47,852] {processor.py:163} INFO - Started process (PID=41044) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:13:47,852] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:13:47,853] {logging_mixin.py:109} INFO - [2022-01-12 22:13:47,853] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:13:47,898] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:13:47,917] {logging_mixin.py:109} INFO - [2022-01-12 22:13:47,917] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:13:47,931] {logging_mixin.py:109} INFO - [2022-01-12 22:13:47,931] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:13:47,938] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.086 seconds
+[2022-01-12 22:15:04,564] {processor.py:163} INFO - Started process (PID=41242) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:15:04,565] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:15:04,565] {logging_mixin.py:109} INFO - [2022-01-12 22:15:04,565] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:15:04,634] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:15:04,663] {logging_mixin.py:109} INFO - [2022-01-12 22:15:04,663] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:15:04,684] {logging_mixin.py:109} INFO - [2022-01-12 22:15:04,683] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:15:04,697] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.133 seconds
+[2022-01-12 22:16:34,226] {processor.py:163} INFO - Started process (PID=41443) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:16:34,227] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:16:34,227] {logging_mixin.py:109} INFO - [2022-01-12 22:16:34,227] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:16:34,296] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:16:34,325] {logging_mixin.py:109} INFO - [2022-01-12 22:16:34,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:16:34,346] {logging_mixin.py:109} INFO - [2022-01-12 22:16:34,345] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:16:34,356] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.132 seconds
+[2022-01-12 22:17:33,299] {processor.py:163} INFO - Started process (PID=41638) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:17:33,300] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:17:33,300] {logging_mixin.py:109} INFO - [2022-01-12 22:17:33,300] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:17:33,337] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:17:33,353] {logging_mixin.py:109} INFO - [2022-01-12 22:17:33,353] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:17:33,364] {logging_mixin.py:109} INFO - [2022-01-12 22:17:33,364] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:17:33,371] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.072 seconds
+[2022-01-12 22:18:36,871] {processor.py:163} INFO - Started process (PID=41836) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:18:36,871] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:18:36,871] {logging_mixin.py:109} INFO - [2022-01-12 22:18:36,871] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:18:36,916] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:18:36,934] {logging_mixin.py:109} INFO - [2022-01-12 22:18:36,934] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:18:36,947] {logging_mixin.py:109} INFO - [2022-01-12 22:18:36,947] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:18:36,954] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.084 seconds
+[2022-01-12 22:19:59,708] {processor.py:163} INFO - Started process (PID=42053) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:19:59,708] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:19:59,709] {logging_mixin.py:109} INFO - [2022-01-12 22:19:59,709] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:19:59,775] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:19:59,802] {logging_mixin.py:109} INFO - [2022-01-12 22:19:59,802] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:19:59,821] {logging_mixin.py:109} INFO - [2022-01-12 22:19:59,821] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:19:59,831] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.124 seconds
+[2022-01-12 22:21:05,926] {processor.py:163} INFO - Started process (PID=42253) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:21:05,927] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:21:05,927] {logging_mixin.py:109} INFO - [2022-01-12 22:21:05,927] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:21:05,966] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:21:05,982] {logging_mixin.py:109} INFO - [2022-01-12 22:21:05,982] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:21:05,994] {logging_mixin.py:109} INFO - [2022-01-12 22:21:05,994] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:21:06,000] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.074 seconds
+[2022-01-12 22:22:15,908] {processor.py:163} INFO - Started process (PID=42459) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:22:15,908] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:22:15,909] {logging_mixin.py:109} INFO - [2022-01-12 22:22:15,909] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:22:15,967] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:22:15,990] {logging_mixin.py:109} INFO - [2022-01-12 22:22:15,990] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:22:16,007] {logging_mixin.py:109} INFO - [2022-01-12 22:22:16,007] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:22:16,016] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.110 seconds
+[2022-01-12 22:23:24,219] {processor.py:163} INFO - Started process (PID=42655) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:23:24,219] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:23:24,220] {logging_mixin.py:109} INFO - [2022-01-12 22:23:24,220] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:23:24,318] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:23:24,359] {logging_mixin.py:109} INFO - [2022-01-12 22:23:24,359] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:23:24,390] {logging_mixin.py:109} INFO - [2022-01-12 22:23:24,390] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:23:24,434] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.218 seconds
+[2022-01-12 22:24:51,853] {processor.py:163} INFO - Started process (PID=42868) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:24:51,853] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:24:51,853] {logging_mixin.py:109} INFO - [2022-01-12 22:24:51,853] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:24:51,907] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:24:51,928] {logging_mixin.py:109} INFO - [2022-01-12 22:24:51,927] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:24:51,944] {logging_mixin.py:109} INFO - [2022-01-12 22:24:51,943] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:24:51,952] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.100 seconds
+[2022-01-12 22:26:00,779] {processor.py:163} INFO - Started process (PID=43074) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:26:00,780] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:26:00,780] {logging_mixin.py:109} INFO - [2022-01-12 22:26:00,780] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:26:00,842] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:26:00,866] {logging_mixin.py:109} INFO - [2022-01-12 22:26:00,866] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:26:00,885] {logging_mixin.py:109} INFO - [2022-01-12 22:26:00,885] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:26:00,895] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.117 seconds
+[2022-01-12 22:27:21,139] {processor.py:163} INFO - Started process (PID=43271) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:27:21,139] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:27:21,140] {logging_mixin.py:109} INFO - [2022-01-12 22:27:21,140] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:27:21,195] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:27:21,217] {logging_mixin.py:109} INFO - [2022-01-12 22:27:21,217] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:27:21,234] {logging_mixin.py:109} INFO - [2022-01-12 22:27:21,234] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:27:21,244] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.106 seconds
+[2022-01-12 22:28:27,524] {processor.py:163} INFO - Started process (PID=43463) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:28:27,525] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:28:27,525] {logging_mixin.py:109} INFO - [2022-01-12 22:28:27,525] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:28:27,564] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:28:27,580] {logging_mixin.py:109} INFO - [2022-01-12 22:28:27,580] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:28:27,591] {logging_mixin.py:109} INFO - [2022-01-12 22:28:27,591] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:28:27,597] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.074 seconds
+[2022-01-12 22:29:20,339] {processor.py:163} INFO - Started process (PID=43655) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:29:20,339] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:29:20,340] {logging_mixin.py:109} INFO - [2022-01-12 22:29:20,340] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:29:20,389] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:29:20,409] {logging_mixin.py:109} INFO - [2022-01-12 22:29:20,409] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:29:20,424] {logging_mixin.py:109} INFO - [2022-01-12 22:29:20,424] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:29:20,431] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.094 seconds
+[2022-01-12 22:30:26,034] {processor.py:163} INFO - Started process (PID=43852) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:30:26,034] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:30:26,035] {logging_mixin.py:109} INFO - [2022-01-12 22:30:26,035] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:30:26,080] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:30:26,097] {logging_mixin.py:109} INFO - [2022-01-12 22:30:26,096] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:30:26,109] {logging_mixin.py:109} INFO - [2022-01-12 22:30:26,109] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:30:26,116] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.083 seconds
+[2022-01-12 22:31:34,375] {processor.py:163} INFO - Started process (PID=44057) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:31:34,375] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:31:34,376] {logging_mixin.py:109} INFO - [2022-01-12 22:31:34,376] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:31:34,438] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:31:34,463] {logging_mixin.py:109} INFO - [2022-01-12 22:31:34,463] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:31:34,481] {logging_mixin.py:109} INFO - [2022-01-12 22:31:34,481] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:31:34,490] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.116 seconds
+[2022-01-12 22:32:37,635] {processor.py:163} INFO - Started process (PID=44254) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:32:37,635] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:32:37,636] {logging_mixin.py:109} INFO - [2022-01-12 22:32:37,636] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:32:37,680] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:32:37,697] {logging_mixin.py:109} INFO - [2022-01-12 22:32:37,696] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:32:37,709] {logging_mixin.py:109} INFO - [2022-01-12 22:32:37,709] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:32:37,716] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.082 seconds
+[2022-01-12 22:33:47,460] {processor.py:163} INFO - Started process (PID=44455) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:33:47,460] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:33:47,460] {logging_mixin.py:109} INFO - [2022-01-12 22:33:47,460] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:33:47,512] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:33:47,532] {logging_mixin.py:109} INFO - [2022-01-12 22:33:47,532] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:33:47,547] {logging_mixin.py:109} INFO - [2022-01-12 22:33:47,547] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:33:47,555] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.097 seconds
+[2022-01-12 22:34:49,389] {processor.py:163} INFO - Started process (PID=44663) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:34:49,390] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:34:49,390] {logging_mixin.py:109} INFO - [2022-01-12 22:34:49,390] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:34:49,432] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:34:49,450] {logging_mixin.py:109} INFO - [2022-01-12 22:34:49,450] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:34:49,463] {logging_mixin.py:109} INFO - [2022-01-12 22:34:49,463] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:34:49,469] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.081 seconds
+[2022-01-12 22:35:50,791] {processor.py:163} INFO - Started process (PID=44861) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:35:50,792] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:35:50,792] {logging_mixin.py:109} INFO - [2022-01-12 22:35:50,792] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:35:50,843] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:35:50,862] {logging_mixin.py:109} INFO - [2022-01-12 22:35:50,861] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:35:50,876] {logging_mixin.py:109} INFO - [2022-01-12 22:35:50,876] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:35:50,883] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.093 seconds
+[2022-01-12 22:37:11,377] {processor.py:163} INFO - Started process (PID=45097) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:37:11,377] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:37:11,378] {logging_mixin.py:109} INFO - [2022-01-12 22:37:11,378] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:37:11,473] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:37:11,508] {logging_mixin.py:109} INFO - [2022-01-12 22:37:11,508] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:37:11,536] {logging_mixin.py:109} INFO - [2022-01-12 22:37:11,536] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:37:11,550] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.175 seconds
+[2022-01-12 22:38:50,088] {processor.py:163} INFO - Started process (PID=45314) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:38:50,089] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:38:50,090] {logging_mixin.py:109} INFO - [2022-01-12 22:38:50,090] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:38:50,174] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:38:50,207] {logging_mixin.py:109} INFO - [2022-01-12 22:38:50,207] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:38:50,232] {logging_mixin.py:109} INFO - [2022-01-12 22:38:50,232] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:38:50,246] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.160 seconds
+[2022-01-12 22:39:55,475] {processor.py:163} INFO - Started process (PID=45511) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:39:55,476] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:39:55,476] {logging_mixin.py:109} INFO - [2022-01-12 22:39:55,476] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:39:55,517] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:39:55,534] {logging_mixin.py:109} INFO - [2022-01-12 22:39:55,533] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:39:55,546] {logging_mixin.py:109} INFO - [2022-01-12 22:39:55,546] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:39:55,552] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.078 seconds
+[2022-01-12 22:40:56,350] {processor.py:163} INFO - Started process (PID=45713) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:40:56,351] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:40:56,351] {logging_mixin.py:109} INFO - [2022-01-12 22:40:56,351] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:40:56,405] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:40:56,428] {logging_mixin.py:109} INFO - [2022-01-12 22:40:56,427] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:40:56,443] {logging_mixin.py:109} INFO - [2022-01-12 22:40:56,443] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:40:56,452] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.102 seconds
+[2022-01-12 22:42:34,392] {processor.py:163} INFO - Started process (PID=46008) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:42:34,392] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:42:34,393] {logging_mixin.py:109} INFO - [2022-01-12 22:42:34,393] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:42:34,435] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:42:34,451] {logging_mixin.py:109} INFO - [2022-01-12 22:42:34,451] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:42:34,463] {logging_mixin.py:109} INFO - [2022-01-12 22:42:34,463] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:42:34,469] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.078 seconds
+[2022-01-12 22:43:29,822] {processor.py:163} INFO - Started process (PID=46211) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:43:29,822] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:43:29,823] {logging_mixin.py:109} INFO - [2022-01-12 22:43:29,823] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:43:29,874] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:43:29,894] {logging_mixin.py:109} INFO - [2022-01-12 22:43:29,894] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:43:29,909] {logging_mixin.py:109} INFO - [2022-01-12 22:43:29,909] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:43:29,918] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.097 seconds
+[2022-01-12 22:44:56,316] {processor.py:163} INFO - Started process (PID=46426) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:44:56,317] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:44:56,318] {logging_mixin.py:109} INFO - [2022-01-12 22:44:56,318] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:44:56,374] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:44:56,397] {logging_mixin.py:109} INFO - [2022-01-12 22:44:56,397] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:44:56,415] {logging_mixin.py:109} INFO - [2022-01-12 22:44:56,415] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:44:56,425] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.110 seconds
+[2022-01-12 22:46:10,513] {processor.py:163} INFO - Started process (PID=46644) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:46:10,513] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:46:10,513] {logging_mixin.py:109} INFO - [2022-01-12 22:46:10,513] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:46:10,568] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:46:10,590] {logging_mixin.py:109} INFO - [2022-01-12 22:46:10,589] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:46:10,606] {logging_mixin.py:109} INFO - [2022-01-12 22:46:10,605] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:46:10,616] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.105 seconds
+[2022-01-12 22:47:13,898] {processor.py:163} INFO - Started process (PID=46847) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:47:13,899] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:47:13,899] {logging_mixin.py:109} INFO - [2022-01-12 22:47:13,899] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:47:13,945] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:47:13,963] {logging_mixin.py:109} INFO - [2022-01-12 22:47:13,963] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:47:13,976] {logging_mixin.py:109} INFO - [2022-01-12 22:47:13,976] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:47:13,983] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.086 seconds
+[2022-01-12 22:48:21,392] {processor.py:163} INFO - Started process (PID=47056) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:48:21,393] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:48:21,393] {logging_mixin.py:109} INFO - [2022-01-12 22:48:21,393] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:48:21,454] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:48:21,485] {logging_mixin.py:109} INFO - [2022-01-12 22:48:21,485] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:48:21,503] {logging_mixin.py:109} INFO - [2022-01-12 22:48:21,503] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:48:21,512] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.121 seconds
+[2022-01-12 22:49:37,471] {processor.py:163} INFO - Started process (PID=47281) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:49:37,471] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:49:37,472] {logging_mixin.py:109} INFO - [2022-01-12 22:49:37,472] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:49:37,524] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:49:37,546] {logging_mixin.py:109} INFO - [2022-01-12 22:49:37,545] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:49:37,561] {logging_mixin.py:109} INFO - [2022-01-12 22:49:37,561] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:49:37,568] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.098 seconds
+[2022-01-12 22:50:53,805] {processor.py:163} INFO - Started process (PID=47500) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:50:53,806] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:50:53,806] {logging_mixin.py:109} INFO - [2022-01-12 22:50:53,806] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:50:53,862] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:50:53,883] {logging_mixin.py:109} INFO - [2022-01-12 22:50:53,883] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:50:53,902] {logging_mixin.py:109} INFO - [2022-01-12 22:50:53,902] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:50:53,911] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.107 seconds
+[2022-01-12 22:52:13,560] {processor.py:163} INFO - Started process (PID=47704) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:52:13,568] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-01-12 22:52:13,569] {logging_mixin.py:109} INFO - [2022-01-12 22:52:13,569] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:52:13,648] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-01-12 22:52:13,678] {logging_mixin.py:109} INFO - [2022-01-12 22:52:13,678] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-12 22:52:13,702] {logging_mixin.py:109} INFO - [2022-01-12 22:52:13,702] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-01-11 00:00:00+00:00
+[2022-01-12 22:52:13,715] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.156 seconds

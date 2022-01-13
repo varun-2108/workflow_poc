@@ -1,0 +1,27 @@
+[2022-01-12 20:59:39,493] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: example_bash_operator.also_run_this scheduled__2022-01-11T00:00:00+00:00 [queued]>
+[2022-01-12 20:59:39,498] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: example_bash_operator.also_run_this scheduled__2022-01-11T00:00:00+00:00 [queued]>
+[2022-01-12 20:59:39,498] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-12 20:59:39,498] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-01-12 20:59:39,498] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-12 20:59:39,505] {taskinstance.py:1259} INFO - Executing <Task(BashOperator): also_run_this> on 2022-01-11 00:00:00+00:00
+[2022-01-12 20:59:39,507] {standard_task_runner.py:52} INFO - Started process 29519 to run task
+[2022-01-12 20:59:39,512] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'example_bash_operator', 'also_run_this', 'scheduled__2022-01-11T00:00:00+00:00', '--job-id', '16', '--raw', '--subdir', '/Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py', '--cfg-path', '/var/folders/9x/87f7qfrd51l90dl7bb9hvr_w0000gq/T/tmpkwn3riws', '--error-file', '/var/folders/9x/87f7qfrd51l90dl7bb9hvr_w0000gq/T/tmpo3yiiiv4']
+[2022-01-12 20:59:39,513] {standard_task_runner.py:77} INFO - Job 16: Subtask also_run_this
+[2022-01-12 20:59:39,550] {logging_mixin.py:109} INFO - Running <TaskInstance: example_bash_operator.also_run_this scheduled__2022-01-11T00:00:00+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2022-01-12 20:59:39,580] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example_bash_operator
+AIRFLOW_CTX_TASK_ID=also_run_this
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-11T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-01-11T00:00:00+00:00
+[2022-01-12 20:59:39,581] {subprocess.py:62} INFO - Tmp dir root location: 
+ /var/folders/9x/87f7qfrd51l90dl7bb9hvr_w0000gq/T
+[2022-01-12 20:59:39,582] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'echo "run_id=scheduled__2022-01-11T00:00:00+00:00 | dag_run=<DagRun example_bash_operator @ 2022-01-11 00:00:00+00:00: scheduled__2022-01-11T00:00:00+00:00, externally triggered: False>"']
+[2022-01-12 20:59:39,588] {subprocess.py:85} INFO - Output:
+[2022-01-12 20:59:39,591] {subprocess.py:89} INFO - run_id=scheduled__2022-01-11T00:00:00+00:00 | dag_run=<DagRun example_bash_operator @ 2022-01-11 00:00:00+00:00: scheduled__2022-01-11T00:00:00+00:00, externally triggered: False>
+[2022-01-12 20:59:39,591] {subprocess.py:93} INFO - Command exited with return code 0
+[2022-01-12 20:59:39,606] {taskinstance.py:1267} INFO - Marking task as SUCCESS. dag_id=example_bash_operator, task_id=also_run_this, execution_date=20220111T000000, start_date=20220112T152939, end_date=20220112T152939
+[2022-01-12 20:59:39,653] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-12 20:59:39,672] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
