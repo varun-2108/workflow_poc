@@ -2315,3 +2315,129 @@
 [2022-01-13 19:24:46,170] {logging_mixin.py:109} INFO - [2022-01-13 19:24:46,169] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-01-13 19:24:46,184] {logging_mixin.py:109} INFO - [2022-01-13 19:24:46,183] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
 [2022-01-13 19:24:46,195] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.418 seconds
+[2022-01-13 19:25:25,488] {processor.py:163} INFO - Started process (PID=99799) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:25:25,489] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:25:25,489] {logging_mixin.py:109} INFO - [2022-01-13 19:25:25,489] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:25:25,558] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:25:25,840] {logging_mixin.py:109} INFO - [2022-01-13 19:25:25,840] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:25,853] {logging_mixin.py:109} INFO - [2022-01-13 19:25:25,853] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:25:25,862] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.375 seconds
+[2022-01-13 19:26:25,292] {processor.py:163} INFO - Started process (PID=99951) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:26:25,292] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:26:25,293] {logging_mixin.py:109} INFO - [2022-01-13 19:26:25,293] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:26:25,400] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:26:25,768] {logging_mixin.py:109} INFO - [2022-01-13 19:26:25,767] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:25,786] {logging_mixin.py:109} INFO - [2022-01-13 19:26:25,786] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:26:25,799] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.509 seconds
+[2022-01-13 19:27:29,079] {processor.py:163} INFO - Started process (PID=259) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:27:29,080] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:27:29,080] {logging_mixin.py:109} INFO - [2022-01-13 19:27:29,080] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:27:29,165] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:27:29,509] {logging_mixin.py:109} INFO - [2022-01-13 19:27:29,509] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:29,525] {logging_mixin.py:109} INFO - [2022-01-13 19:27:29,525] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:27:29,536] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.458 seconds
+[2022-01-13 19:28:10,973] {processor.py:163} INFO - Started process (PID=430) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:28:10,974] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:28:10,974] {logging_mixin.py:109} INFO - [2022-01-13 19:28:10,974] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:28:11,042] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:28:11,340] {logging_mixin.py:109} INFO - [2022-01-13 19:28:11,340] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:11,354] {logging_mixin.py:109} INFO - [2022-01-13 19:28:11,354] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:28:11,364] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.392 seconds
+[2022-01-13 19:29:04,234] {processor.py:163} INFO - Started process (PID=668) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:29:04,235] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:29:04,235] {logging_mixin.py:109} INFO - [2022-01-13 19:29:04,235] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:29:04,310] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:29:04,596] {logging_mixin.py:109} INFO - [2022-01-13 19:29:04,596] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:04,611] {logging_mixin.py:109} INFO - [2022-01-13 19:29:04,611] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:29:04,621] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.388 seconds
+[2022-01-13 19:29:48,068] {processor.py:163} INFO - Started process (PID=825) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:29:48,068] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:29:48,069] {logging_mixin.py:109} INFO - [2022-01-13 19:29:48,069] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:29:48,136] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:29:48,418] {logging_mixin.py:109} INFO - [2022-01-13 19:29:48,418] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:48,432] {logging_mixin.py:109} INFO - [2022-01-13 19:29:48,432] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:29:48,441] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.375 seconds
+[2022-01-13 19:30:37,793] {processor.py:163} INFO - Started process (PID=1003) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:30:37,794] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:30:37,794] {logging_mixin.py:109} INFO - [2022-01-13 19:30:37,794] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:30:37,887] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:30:38,263] {logging_mixin.py:109} INFO - [2022-01-13 19:30:38,263] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:38,282] {logging_mixin.py:109} INFO - [2022-01-13 19:30:38,282] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:30:38,295] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.503 seconds
+[2022-01-13 19:31:20,610] {processor.py:163} INFO - Started process (PID=1135) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:31:20,612] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:31:20,612] {logging_mixin.py:109} INFO - [2022-01-13 19:31:20,612] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:31:20,678] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:31:20,955] {logging_mixin.py:109} INFO - [2022-01-13 19:31:20,955] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:20,971] {logging_mixin.py:109} INFO - [2022-01-13 19:31:20,970] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:31:20,980] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.371 seconds
+[2022-01-13 19:32:03,845] {processor.py:163} INFO - Started process (PID=1266) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:32:03,846] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:32:03,846] {logging_mixin.py:109} INFO - [2022-01-13 19:32:03,846] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:32:03,918] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:32:04,227] {logging_mixin.py:109} INFO - [2022-01-13 19:32:04,227] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:04,246] {logging_mixin.py:109} INFO - [2022-01-13 19:32:04,246] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:32:04,257] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.413 seconds
+[2022-01-13 19:32:47,625] {processor.py:163} INFO - Started process (PID=1415) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:32:47,627] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:32:47,627] {logging_mixin.py:109} INFO - [2022-01-13 19:32:47,627] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:32:47,694] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:32:47,962] {logging_mixin.py:109} INFO - [2022-01-13 19:32:47,962] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:47,975] {logging_mixin.py:109} INFO - [2022-01-13 19:32:47,975] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:32:47,984] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.360 seconds
+[2022-01-13 19:33:29,184] {processor.py:163} INFO - Started process (PID=1560) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:33:29,184] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:33:29,185] {logging_mixin.py:109} INFO - [2022-01-13 19:33:29,185] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:33:29,264] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:33:29,580] {logging_mixin.py:109} INFO - [2022-01-13 19:33:29,579] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:29,593] {logging_mixin.py:109} INFO - [2022-01-13 19:33:29,593] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:33:29,604] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.422 seconds
+[2022-01-13 19:34:10,561] {processor.py:163} INFO - Started process (PID=1703) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:34:10,561] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:34:10,562] {logging_mixin.py:109} INFO - [2022-01-13 19:34:10,561] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:34:10,624] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:34:10,874] {logging_mixin.py:109} INFO - [2022-01-13 19:34:10,874] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:10,886] {logging_mixin.py:109} INFO - [2022-01-13 19:34:10,886] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:34:10,894] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.334 seconds
+[2022-01-13 19:34:47,436] {processor.py:163} INFO - Started process (PID=1827) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:34:47,436] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:34:47,436] {logging_mixin.py:109} INFO - [2022-01-13 19:34:47,436] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:34:47,501] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:34:47,754] {logging_mixin.py:109} INFO - [2022-01-13 19:34:47,753] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:47,767] {logging_mixin.py:109} INFO - [2022-01-13 19:34:47,767] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:34:47,776] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.341 seconds
+[2022-01-13 19:35:27,539] {processor.py:163} INFO - Started process (PID=1953) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:35:27,540] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:35:27,540] {logging_mixin.py:109} INFO - [2022-01-13 19:35:27,540] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:35:27,607] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:35:27,879] {logging_mixin.py:109} INFO - [2022-01-13 19:35:27,879] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:27,891] {logging_mixin.py:109} INFO - [2022-01-13 19:35:27,891] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:35:27,900] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.362 seconds
+[2022-01-13 19:36:04,682] {processor.py:163} INFO - Started process (PID=2081) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:36:04,682] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:36:04,683] {logging_mixin.py:109} INFO - [2022-01-13 19:36:04,683] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:36:04,756] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:36:05,051] {logging_mixin.py:109} INFO - [2022-01-13 19:36:05,051] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:05,064] {logging_mixin.py:109} INFO - [2022-01-13 19:36:05,064] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:36:05,074] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.393 seconds
+[2022-01-13 19:36:48,390] {processor.py:163} INFO - Started process (PID=2217) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:36:48,391] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:36:48,391] {logging_mixin.py:109} INFO - [2022-01-13 19:36:48,391] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:36:48,458] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:36:48,730] {logging_mixin.py:109} INFO - [2022-01-13 19:36:48,730] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:48,750] {logging_mixin.py:109} INFO - [2022-01-13 19:36:48,750] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:36:48,760] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.370 seconds
+[2022-01-13 19:37:30,070] {processor.py:163} INFO - Started process (PID=2371) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:37:30,070] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:37:30,071] {logging_mixin.py:109} INFO - [2022-01-13 19:37:30,071] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:37:30,158] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:37:30,526] {logging_mixin.py:109} INFO - [2022-01-13 19:37:30,526] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:30,543] {logging_mixin.py:109} INFO - [2022-01-13 19:37:30,543] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:37:30,555] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.486 seconds
+[2022-01-13 19:38:27,922] {processor.py:163} INFO - Started process (PID=2584) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:38:27,923] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-01-13 19:38:27,924] {logging_mixin.py:109} INFO - [2022-01-13 19:38:27,924] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:38:28,018] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-01-13 19:38:28,451] {logging_mixin.py:109} INFO - [2022-01-13 19:38:28,451] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:28,479] {logging_mixin.py:109} INFO - [2022-01-13 19:38:28,479] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-01-13 19:38:28,494] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.573 seconds

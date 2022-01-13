@@ -2525,3 +2525,143 @@
 [2022-01-13 19:25:08,571] {logging_mixin.py:109} INFO - [2022-01-13 19:25:08,571] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-01-13 19:25:08,583] {logging_mixin.py:109} INFO - [2022-01-13 19:25:08,583] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
 [2022-01-13 19:25:08,591] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.345 seconds
+[2022-01-13 19:25:58,712] {processor.py:163} INFO - Started process (PID=99889) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:25:58,712] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:25:58,713] {logging_mixin.py:109} INFO - [2022-01-13 19:25:58,713] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:25:58,834] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:25:59,252] {logging_mixin.py:109} INFO - [2022-01-13 19:25:59,251] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:59,275] {logging_mixin.py:109} INFO - [2022-01-13 19:25:59,275] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:25:59,291] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.581 seconds
+[2022-01-13 19:26:59,026] {processor.py:163} INFO - Started process (PID=169) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:26:59,027] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:26:59,027] {logging_mixin.py:109} INFO - [2022-01-13 19:26:59,027] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:26:59,126] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:26:59,505] {logging_mixin.py:109} INFO - [2022-01-13 19:26:59,504] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:59,522] {logging_mixin.py:109} INFO - [2022-01-13 19:26:59,522] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:26:59,535] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.510 seconds
+[2022-01-13 19:27:47,382] {processor.py:163} INFO - Started process (PID=313) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:27:47,383] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:27:47,384] {logging_mixin.py:109} INFO - [2022-01-13 19:27:47,383] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:27:47,468] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:27:47,749] {logging_mixin.py:109} INFO - [2022-01-13 19:27:47,749] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:47,763] {logging_mixin.py:109} INFO - [2022-01-13 19:27:47,763] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:27:47,773] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.392 seconds
+[2022-01-13 19:28:27,853] {processor.py:163} INFO - Started process (PID=494) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:28:27,853] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:28:27,854] {logging_mixin.py:109} INFO - [2022-01-13 19:28:27,854] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:28:27,969] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:28:28,323] {logging_mixin.py:109} INFO - [2022-01-13 19:28:28,323] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:28,339] {logging_mixin.py:109} INFO - [2022-01-13 19:28:28,339] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:28:28,350] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.499 seconds
+[2022-01-13 19:29:09,008] {processor.py:163} INFO - Started process (PID=683) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:29:09,008] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:29:09,009] {logging_mixin.py:109} INFO - [2022-01-13 19:29:09,008] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:29:09,074] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:29:09,367] {logging_mixin.py:109} INFO - [2022-01-13 19:29:09,366] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:09,379] {logging_mixin.py:109} INFO - [2022-01-13 19:29:09,379] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:29:09,388] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.381 seconds
+[2022-01-13 19:29:43,792] {processor.py:163} INFO - Started process (PID=812) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:29:43,793] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:29:43,793] {logging_mixin.py:109} INFO - [2022-01-13 19:29:43,793] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:29:43,860] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:29:44,136] {logging_mixin.py:109} INFO - [2022-01-13 19:29:44,136] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:44,149] {logging_mixin.py:109} INFO - [2022-01-13 19:29:44,148] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:29:44,157] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.366 seconds
+[2022-01-13 19:30:23,275] {processor.py:163} INFO - Started process (PID=965) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:30:23,276] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:30:23,276] {logging_mixin.py:109} INFO - [2022-01-13 19:30:23,276] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:30:23,372] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:30:23,747] {logging_mixin.py:109} INFO - [2022-01-13 19:30:23,747] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:23,765] {logging_mixin.py:109} INFO - [2022-01-13 19:30:23,765] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:30:23,778] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.505 seconds
+[2022-01-13 19:31:01,779] {processor.py:163} INFO - Started process (PID=1068) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:31:01,780] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:31:01,780] {logging_mixin.py:109} INFO - [2022-01-13 19:31:01,780] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:31:01,852] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:31:02,156] {logging_mixin.py:109} INFO - [2022-01-13 19:31:02,156] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:02,170] {logging_mixin.py:109} INFO - [2022-01-13 19:31:02,170] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:31:02,179] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.400 seconds
+[2022-01-13 19:31:44,232] {processor.py:163} INFO - Started process (PID=1201) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:31:44,233] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:31:44,233] {logging_mixin.py:109} INFO - [2022-01-13 19:31:44,233] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:31:44,309] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:31:44,601] {logging_mixin.py:109} INFO - [2022-01-13 19:31:44,600] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:44,614] {logging_mixin.py:109} INFO - [2022-01-13 19:31:44,614] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:31:44,623] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.392 seconds
+[2022-01-13 19:32:25,663] {processor.py:163} INFO - Started process (PID=1324) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:32:25,664] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:32:25,665] {logging_mixin.py:109} INFO - [2022-01-13 19:32:25,665] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:32:25,738] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:32:26,039] {logging_mixin.py:109} INFO - [2022-01-13 19:32:26,039] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:26,054] {logging_mixin.py:109} INFO - [2022-01-13 19:32:26,054] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:32:26,064] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.402 seconds
+[2022-01-13 19:33:01,444] {processor.py:163} INFO - Started process (PID=1469) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:33:01,444] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:33:01,445] {logging_mixin.py:109} INFO - [2022-01-13 19:33:01,445] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:33:01,607] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:33:01,900] {logging_mixin.py:109} INFO - [2022-01-13 19:33:01,900] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:01,912] {logging_mixin.py:109} INFO - [2022-01-13 19:33:01,912] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:33:01,921] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.478 seconds
+[2022-01-13 19:33:42,158] {processor.py:163} INFO - Started process (PID=1622) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:33:42,158] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:33:42,159] {logging_mixin.py:109} INFO - [2022-01-13 19:33:42,158] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:33:42,230] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:33:42,523] {logging_mixin.py:109} INFO - [2022-01-13 19:33:42,523] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:42,536] {logging_mixin.py:109} INFO - [2022-01-13 19:33:42,536] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:33:42,545] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.389 seconds
+[2022-01-13 19:34:20,270] {processor.py:163} INFO - Started process (PID=1737) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:34:20,270] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:34:20,271] {logging_mixin.py:109} INFO - [2022-01-13 19:34:20,270] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:34:20,333] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:34:20,589] {logging_mixin.py:109} INFO - [2022-01-13 19:34:20,588] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:20,601] {logging_mixin.py:109} INFO - [2022-01-13 19:34:20,601] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:34:20,609] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.340 seconds
+[2022-01-13 19:34:55,577] {processor.py:163} INFO - Started process (PID=1854) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:34:55,578] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:34:55,578] {logging_mixin.py:109} INFO - [2022-01-13 19:34:55,578] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:34:55,638] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:34:55,886] {logging_mixin.py:109} INFO - [2022-01-13 19:34:55,886] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:55,897] {logging_mixin.py:109} INFO - [2022-01-13 19:34:55,897] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:34:55,905] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.329 seconds
+[2022-01-13 19:35:31,841] {processor.py:163} INFO - Started process (PID=1967) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:35:31,841] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:35:31,842] {logging_mixin.py:109} INFO - [2022-01-13 19:35:31,842] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:35:31,904] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:35:32,161] {logging_mixin.py:109} INFO - [2022-01-13 19:35:32,161] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:32,174] {logging_mixin.py:109} INFO - [2022-01-13 19:35:32,174] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:35:32,182] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.342 seconds
+[2022-01-13 19:36:10,260] {processor.py:163} INFO - Started process (PID=2096) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:36:10,260] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:36:10,261] {logging_mixin.py:109} INFO - [2022-01-13 19:36:10,261] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:36:10,331] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:36:10,604] {logging_mixin.py:109} INFO - [2022-01-13 19:36:10,604] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:10,617] {logging_mixin.py:109} INFO - [2022-01-13 19:36:10,617] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:36:10,626] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.367 seconds
+[2022-01-13 19:36:46,152] {processor.py:163} INFO - Started process (PID=2209) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:36:46,152] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:36:46,153] {logging_mixin.py:109} INFO - [2022-01-13 19:36:46,153] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:36:46,217] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:36:46,497] {logging_mixin.py:109} INFO - [2022-01-13 19:36:46,497] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:46,510] {logging_mixin.py:109} INFO - [2022-01-13 19:36:46,510] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:36:46,519] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.368 seconds
+[2022-01-13 19:37:25,701] {processor.py:163} INFO - Started process (PID=2355) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:37:25,701] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:37:25,702] {logging_mixin.py:109} INFO - [2022-01-13 19:37:25,702] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:37:25,868] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:37:26,591] {logging_mixin.py:109} INFO - [2022-01-13 19:37:26,591] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:26,621] {logging_mixin.py:109} INFO - [2022-01-13 19:37:26,621] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:37:26,648] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.949 seconds
+[2022-01-13 19:38:07,328] {processor.py:163} INFO - Started process (PID=2487) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:38:07,328] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:38:07,329] {logging_mixin.py:109} INFO - [2022-01-13 19:38:07,328] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:38:07,425] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:38:07,821] {logging_mixin.py:109} INFO - [2022-01-13 19:38:07,821] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:07,840] {logging_mixin.py:109} INFO - [2022-01-13 19:38:07,840] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:38:07,853] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.526 seconds
+[2022-01-13 19:38:57,155] {processor.py:163} INFO - Started process (PID=2656) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:38:57,156] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-13 19:38:57,156] {logging_mixin.py:109} INFO - [2022-01-13 19:38:57,156] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:38:57,239] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-13 19:38:57,597] {logging_mixin.py:109} INFO - [2022-01-13 19:38:57,597] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:57,614] {logging_mixin.py:109} INFO - [2022-01-13 19:38:57,614] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-13 19:38:57,626] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.472 seconds

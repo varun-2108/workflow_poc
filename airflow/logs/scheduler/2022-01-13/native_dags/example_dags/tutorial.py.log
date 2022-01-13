@@ -2553,3 +2553,150 @@
 [2022-01-13 19:24:52,126] {logging_mixin.py:109} INFO - [2022-01-13 19:24:52,126] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-01-13 19:24:52,139] {logging_mixin.py:109} INFO - [2022-01-13 19:24:52,139] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
 [2022-01-13 19:24:52,147] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.090 seconds
+[2022-01-13 19:25:29,989] {processor.py:163} INFO - Started process (PID=99815) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:25:29,990] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:25:29,990] {logging_mixin.py:109} INFO - [2022-01-13 19:25:29,990] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:25:30,050] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:25:30,074] {logging_mixin.py:109} INFO - [2022-01-13 19:25:30,074] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:30,090] {logging_mixin.py:109} INFO - [2022-01-13 19:25:30,090] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:25:30,098] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.110 seconds
+[2022-01-13 19:26:11,649] {processor.py:163} INFO - Started process (PID=99914) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:26:11,650] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:26:11,651] {logging_mixin.py:109} INFO - [2022-01-13 19:26:11,650] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:26:11,715] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:26:11,741] {logging_mixin.py:109} INFO - [2022-01-13 19:26:11,741] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:11,760] {logging_mixin.py:109} INFO - [2022-01-13 19:26:11,759] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:26:11,770] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.122 seconds
+[2022-01-13 19:26:55,817] {processor.py:163} INFO - Started process (PID=130) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:26:55,818] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:26:55,819] {logging_mixin.py:109} INFO - [2022-01-13 19:26:55,819] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:26:55,938] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:26:55,981] {logging_mixin.py:109} INFO - [2022-01-13 19:26:55,981] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:56,010] {logging_mixin.py:109} INFO - [2022-01-13 19:26:56,010] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:26:56,026] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.211 seconds
+[2022-01-13 19:27:36,640] {processor.py:163} INFO - Started process (PID=281) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:27:36,640] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:27:36,641] {logging_mixin.py:109} INFO - [2022-01-13 19:27:36,641] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:27:36,703] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:27:36,746] {logging_mixin.py:109} INFO - [2022-01-13 19:27:36,746] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:36,789] {logging_mixin.py:109} INFO - [2022-01-13 19:27:36,789] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:27:36,801] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.162 seconds
+[2022-01-13 19:28:16,273] {processor.py:163} INFO - Started process (PID=452) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:28:16,273] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:28:16,274] {logging_mixin.py:109} INFO - [2022-01-13 19:28:16,274] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:28:16,349] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:28:16,381] {logging_mixin.py:109} INFO - [2022-01-13 19:28:16,381] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:16,399] {logging_mixin.py:109} INFO - [2022-01-13 19:28:16,399] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:28:16,412] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.140 seconds
+[2022-01-13 19:28:58,312] {processor.py:163} INFO - Started process (PID=635) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:28:58,313] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:28:58,313] {logging_mixin.py:109} INFO - [2022-01-13 19:28:58,313] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:28:58,370] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:28:58,392] {logging_mixin.py:109} INFO - [2022-01-13 19:28:58,392] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:58,410] {logging_mixin.py:109} INFO - [2022-01-13 19:28:58,410] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:28:58,419] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.108 seconds
+[2022-01-13 19:29:38,098] {processor.py:163} INFO - Started process (PID=792) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:29:38,099] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:29:38,099] {logging_mixin.py:109} INFO - [2022-01-13 19:29:38,099] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:29:38,227] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:29:38,257] {logging_mixin.py:109} INFO - [2022-01-13 19:29:38,256] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:38,278] {logging_mixin.py:109} INFO - [2022-01-13 19:29:38,278] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:29:38,292] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.195 seconds
+[2022-01-13 19:30:20,539] {processor.py:163} INFO - Started process (PID=959) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:30:20,539] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:30:20,540] {logging_mixin.py:109} INFO - [2022-01-13 19:30:20,540] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:30:20,621] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:30:20,647] {logging_mixin.py:109} INFO - [2022-01-13 19:30:20,647] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:20,663] {logging_mixin.py:109} INFO - [2022-01-13 19:30:20,663] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:30:20,672] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.135 seconds
+[2022-01-13 19:30:59,706] {processor.py:163} INFO - Started process (PID=1062) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:30:59,706] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:30:59,706] {logging_mixin.py:109} INFO - [2022-01-13 19:30:59,706] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:30:59,753] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:30:59,773] {logging_mixin.py:109} INFO - [2022-01-13 19:30:59,773] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:59,787] {logging_mixin.py:109} INFO - [2022-01-13 19:30:59,787] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:30:59,794] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.090 seconds
+[2022-01-13 19:31:35,778] {processor.py:163} INFO - Started process (PID=1179) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:31:35,779] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:31:35,779] {logging_mixin.py:109} INFO - [2022-01-13 19:31:35,779] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:31:35,835] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:31:35,858] {logging_mixin.py:109} INFO - [2022-01-13 19:31:35,858] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:35,873] {logging_mixin.py:109} INFO - [2022-01-13 19:31:35,873] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:31:35,882] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2022-01-13 19:32:17,961] {processor.py:163} INFO - Started process (PID=1303) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:32:17,965] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:32:17,965] {logging_mixin.py:109} INFO - [2022-01-13 19:32:17,965] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:32:18,025] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:32:18,046] {logging_mixin.py:109} INFO - [2022-01-13 19:32:18,046] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:18,062] {logging_mixin.py:109} INFO - [2022-01-13 19:32:18,061] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:32:18,070] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.110 seconds
+[2022-01-13 19:32:53,489] {processor.py:163} INFO - Started process (PID=1433) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:32:53,490] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:32:53,490] {logging_mixin.py:109} INFO - [2022-01-13 19:32:53,490] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:32:53,535] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:32:53,553] {logging_mixin.py:109} INFO - [2022-01-13 19:32:53,553] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:53,585] {logging_mixin.py:109} INFO - [2022-01-13 19:32:53,585] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:32:53,592] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.103 seconds
+[2022-01-13 19:33:33,553] {processor.py:163} INFO - Started process (PID=1583) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:33:33,553] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:33:33,554] {logging_mixin.py:109} INFO - [2022-01-13 19:33:33,554] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:33:33,632] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:33:33,651] {logging_mixin.py:109} INFO - [2022-01-13 19:33:33,650] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:33,664] {logging_mixin.py:109} INFO - [2022-01-13 19:33:33,664] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:33:33,678] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.126 seconds
+[2022-01-13 19:34:08,749] {processor.py:163} INFO - Started process (PID=1696) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:34:08,749] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:34:08,750] {logging_mixin.py:109} INFO - [2022-01-13 19:34:08,749] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:34:08,797] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:34:08,815] {logging_mixin.py:109} INFO - [2022-01-13 19:34:08,815] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:08,827] {logging_mixin.py:109} INFO - [2022-01-13 19:34:08,827] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:34:08,834] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2022-01-13 19:34:43,977] {processor.py:163} INFO - Started process (PID=1818) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:34:43,977] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:34:43,978] {logging_mixin.py:109} INFO - [2022-01-13 19:34:43,977] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:34:44,022] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:34:44,040] {logging_mixin.py:109} INFO - [2022-01-13 19:34:44,040] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:44,052] {logging_mixin.py:109} INFO - [2022-01-13 19:34:44,052] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:34:44,059] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.083 seconds
+[2022-01-13 19:35:25,512] {processor.py:163} INFO - Started process (PID=1946) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:35:25,513] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:35:25,513] {logging_mixin.py:109} INFO - [2022-01-13 19:35:25,513] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:35:25,563] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:35:25,584] {logging_mixin.py:109} INFO - [2022-01-13 19:35:25,584] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:25,598] {logging_mixin.py:109} INFO - [2022-01-13 19:35:25,598] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:35:25,606] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.095 seconds
+[2022-01-13 19:36:02,189] {processor.py:163} INFO - Started process (PID=2070) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:36:02,189] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:36:02,189] {logging_mixin.py:109} INFO - [2022-01-13 19:36:02,189] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:36:02,235] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:36:02,252] {logging_mixin.py:109} INFO - [2022-01-13 19:36:02,252] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:02,267] {logging_mixin.py:109} INFO - [2022-01-13 19:36:02,266] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:36:02,274] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2022-01-13 19:36:40,265] {processor.py:163} INFO - Started process (PID=2191) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:36:40,265] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:36:40,266] {logging_mixin.py:109} INFO - [2022-01-13 19:36:40,266] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:36:40,314] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:36:40,332] {logging_mixin.py:109} INFO - [2022-01-13 19:36:40,332] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:40,346] {logging_mixin.py:109} INFO - [2022-01-13 19:36:40,346] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:36:40,353] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.089 seconds
+[2022-01-13 19:37:17,046] {processor.py:163} INFO - Started process (PID=2321) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:37:17,047] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:37:17,047] {logging_mixin.py:109} INFO - [2022-01-13 19:37:17,047] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:37:17,093] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:37:17,111] {logging_mixin.py:109} INFO - [2022-01-13 19:37:17,111] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:17,124] {logging_mixin.py:109} INFO - [2022-01-13 19:37:17,124] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:37:17,131] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2022-01-13 19:38:04,733] {processor.py:163} INFO - Started process (PID=2481) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:38:04,733] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:38:04,734] {logging_mixin.py:109} INFO - [2022-01-13 19:38:04,734] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:38:04,797] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:38:04,821] {logging_mixin.py:109} INFO - [2022-01-13 19:38:04,821] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:04,839] {logging_mixin.py:109} INFO - [2022-01-13 19:38:04,839] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:38:04,848] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.116 seconds
+[2022-01-13 19:38:54,639] {processor.py:163} INFO - Started process (PID=2642) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:38:54,640] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-01-13 19:38:54,640] {logging_mixin.py:109} INFO - [2022-01-13 19:38:54,640] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:38:54,722] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-01-13 19:38:54,757] {logging_mixin.py:109} INFO - [2022-01-13 19:38:54,757] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:54,785] {logging_mixin.py:109} INFO - [2022-01-13 19:38:54,785] {dag.py:2935} INFO - Setting next_dagrun for tutorial to 2022-01-12T15:51:21.935294+00:00
+[2022-01-13 19:38:54,797] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.159 seconds

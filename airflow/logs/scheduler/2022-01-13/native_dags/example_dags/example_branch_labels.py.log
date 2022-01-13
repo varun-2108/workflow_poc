@@ -2273,3 +2273,129 @@
 [2022-01-13 19:24:48,375] {logging_mixin.py:109} INFO - [2022-01-13 19:24:48,374] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-01-13 19:24:48,389] {logging_mixin.py:109} INFO - [2022-01-13 19:24:48,389] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
 [2022-01-13 19:24:48,396] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.100 seconds
+[2022-01-13 19:25:32,495] {processor.py:163} INFO - Started process (PID=99831) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:25:32,496] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:25:32,496] {logging_mixin.py:109} INFO - [2022-01-13 19:25:32,496] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:25:32,545] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:25:32,566] {logging_mixin.py:109} INFO - [2022-01-13 19:25:32,566] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:32,588] {logging_mixin.py:109} INFO - [2022-01-13 19:25:32,588] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:25:32,596] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.102 seconds
+[2022-01-13 19:26:28,627] {processor.py:163} INFO - Started process (PID=99958) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:26:28,628] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:26:28,628] {logging_mixin.py:109} INFO - [2022-01-13 19:26:28,628] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:26:28,702] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:26:28,731] {logging_mixin.py:109} INFO - [2022-01-13 19:26:28,731] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:28,752] {logging_mixin.py:109} INFO - [2022-01-13 19:26:28,752] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:26:28,764] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.138 seconds
+[2022-01-13 19:27:31,801] {processor.py:163} INFO - Started process (PID=266) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:27:31,802] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:27:31,802] {logging_mixin.py:109} INFO - [2022-01-13 19:27:31,802] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:27:31,870] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:27:31,894] {logging_mixin.py:109} INFO - [2022-01-13 19:27:31,894] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:31,912] {logging_mixin.py:109} INFO - [2022-01-13 19:27:31,912] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:27:31,921] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.121 seconds
+[2022-01-13 19:28:13,292] {processor.py:163} INFO - Started process (PID=440) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:28:13,293] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:28:13,293] {logging_mixin.py:109} INFO - [2022-01-13 19:28:13,293] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:28:13,341] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:28:13,362] {logging_mixin.py:109} INFO - [2022-01-13 19:28:13,361] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:13,376] {logging_mixin.py:109} INFO - [2022-01-13 19:28:13,376] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:28:13,383] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.092 seconds
+[2022-01-13 19:29:06,779] {processor.py:163} INFO - Started process (PID=675) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:29:06,780] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:29:06,780] {logging_mixin.py:109} INFO - [2022-01-13 19:29:06,780] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:29:06,833] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:29:06,861] {logging_mixin.py:109} INFO - [2022-01-13 19:29:06,861] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:06,883] {logging_mixin.py:109} INFO - [2022-01-13 19:29:06,883] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:29:06,898] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.120 seconds
+[2022-01-13 19:29:50,368] {processor.py:163} INFO - Started process (PID=831) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:29:50,368] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:29:50,369] {logging_mixin.py:109} INFO - [2022-01-13 19:29:50,369] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:29:50,424] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:29:50,446] {logging_mixin.py:109} INFO - [2022-01-13 19:29:50,446] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:50,462] {logging_mixin.py:109} INFO - [2022-01-13 19:29:50,462] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:29:50,470] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.103 seconds
+[2022-01-13 19:30:40,929] {processor.py:163} INFO - Started process (PID=1011) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:30:40,930] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:30:40,930] {logging_mixin.py:109} INFO - [2022-01-13 19:30:40,930] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:30:40,998] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:30:41,026] {logging_mixin.py:109} INFO - [2022-01-13 19:30:41,025] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:41,046] {logging_mixin.py:109} INFO - [2022-01-13 19:30:41,046] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:30:41,055] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.128 seconds
+[2022-01-13 19:31:22,895] {processor.py:163} INFO - Started process (PID=1141) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:31:22,896] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:31:22,897] {logging_mixin.py:109} INFO - [2022-01-13 19:31:22,897] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:31:22,995] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:31:23,029] {logging_mixin.py:109} INFO - [2022-01-13 19:31:23,029] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:23,051] {logging_mixin.py:109} INFO - [2022-01-13 19:31:23,051] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:31:23,061] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.168 seconds
+[2022-01-13 19:32:06,366] {processor.py:163} INFO - Started process (PID=1272) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:32:06,367] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:32:06,367] {logging_mixin.py:109} INFO - [2022-01-13 19:32:06,367] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:32:06,423] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:32:06,448] {logging_mixin.py:109} INFO - [2022-01-13 19:32:06,447] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:06,468] {logging_mixin.py:109} INFO - [2022-01-13 19:32:06,468] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:32:06,479] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.114 seconds
+[2022-01-13 19:32:49,771] {processor.py:163} INFO - Started process (PID=1421) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:32:49,772] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:32:49,772] {logging_mixin.py:109} INFO - [2022-01-13 19:32:49,772] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:32:49,819] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:32:49,838] {logging_mixin.py:109} INFO - [2022-01-13 19:32:49,838] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:49,852] {logging_mixin.py:109} INFO - [2022-01-13 19:32:49,852] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:32:49,859] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.090 seconds
+[2022-01-13 19:33:31,484] {processor.py:163} INFO - Started process (PID=1573) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:33:31,484] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:33:31,485] {logging_mixin.py:109} INFO - [2022-01-13 19:33:31,485] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:33:31,543] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:33:31,567] {logging_mixin.py:109} INFO - [2022-01-13 19:33:31,566] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:31,584] {logging_mixin.py:109} INFO - [2022-01-13 19:33:31,584] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:33:31,592] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.109 seconds
+[2022-01-13 19:34:12,648] {processor.py:163} INFO - Started process (PID=1709) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:34:12,648] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:34:12,649] {logging_mixin.py:109} INFO - [2022-01-13 19:34:12,649] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:34:12,693] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:34:12,711] {logging_mixin.py:109} INFO - [2022-01-13 19:34:12,711] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:12,724] {logging_mixin.py:109} INFO - [2022-01-13 19:34:12,724] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:34:12,730] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.083 seconds
+[2022-01-13 19:34:49,613] {processor.py:163} INFO - Started process (PID=1834) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:34:49,614] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:34:49,614] {logging_mixin.py:109} INFO - [2022-01-13 19:34:49,614] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:34:49,659] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:34:49,678] {logging_mixin.py:109} INFO - [2022-01-13 19:34:49,678] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:49,692] {logging_mixin.py:109} INFO - [2022-01-13 19:34:49,692] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:34:49,700] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.087 seconds
+[2022-01-13 19:35:29,778] {processor.py:163} INFO - Started process (PID=1960) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:35:29,778] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:35:29,778] {logging_mixin.py:109} INFO - [2022-01-13 19:35:29,778] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:35:29,825] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:35:29,843] {logging_mixin.py:109} INFO - [2022-01-13 19:35:29,843] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:29,857] {logging_mixin.py:109} INFO - [2022-01-13 19:35:29,857] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:35:29,864] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.088 seconds
+[2022-01-13 19:36:06,941] {processor.py:163} INFO - Started process (PID=2087) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:36:06,942] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:36:06,942] {logging_mixin.py:109} INFO - [2022-01-13 19:36:06,942] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:36:06,990] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:36:07,009] {logging_mixin.py:109} INFO - [2022-01-13 19:36:07,008] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:07,022] {logging_mixin.py:109} INFO - [2022-01-13 19:36:07,022] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:36:07,029] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.089 seconds
+[2022-01-13 19:36:50,613] {processor.py:163} INFO - Started process (PID=2224) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:36:50,613] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:36:50,613] {logging_mixin.py:109} INFO - [2022-01-13 19:36:50,613] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:36:50,659] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:36:50,678] {logging_mixin.py:109} INFO - [2022-01-13 19:36:50,678] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:50,693] {logging_mixin.py:109} INFO - [2022-01-13 19:36:50,693] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:36:50,700] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.088 seconds
+[2022-01-13 19:37:33,043] {processor.py:163} INFO - Started process (PID=2393) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:37:33,044] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:37:33,044] {logging_mixin.py:109} INFO - [2022-01-13 19:37:33,044] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:37:33,103] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:37:33,128] {logging_mixin.py:109} INFO - [2022-01-13 19:37:33,128] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:33,148] {logging_mixin.py:109} INFO - [2022-01-13 19:37:33,148] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:37:33,157] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.115 seconds
+[2022-01-13 19:38:31,525] {processor.py:163} INFO - Started process (PID=2590) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:38:31,525] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-01-13 19:38:31,526] {logging_mixin.py:109} INFO - [2022-01-13 19:38:31,526] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:38:31,594] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-01-13 19:38:31,622] {logging_mixin.py:109} INFO - [2022-01-13 19:38:31,622] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:31,646] {logging_mixin.py:109} INFO - [2022-01-13 19:38:31,646] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-01-12 00:00:00+00:00
+[2022-01-13 19:38:31,658] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.135 seconds

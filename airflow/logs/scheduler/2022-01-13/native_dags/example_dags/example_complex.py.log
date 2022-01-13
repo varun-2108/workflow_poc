@@ -2301,3 +2301,129 @@
 [2022-01-13 19:24:47,836] {logging_mixin.py:109} INFO - [2022-01-13 19:24:47,836] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-01-13 19:24:47,852] {logging_mixin.py:109} INFO - [2022-01-13 19:24:47,851] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
 [2022-01-13 19:24:47,860] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-01-13 19:25:25,619] {processor.py:163} INFO - Started process (PID=99800) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:25:25,619] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:25:25,620] {logging_mixin.py:109} INFO - [2022-01-13 19:25:25,620] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:25:25,675] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:25:25,700] {logging_mixin.py:109} INFO - [2022-01-13 19:25:25,700] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:25,712] {logging_mixin.py:109} INFO - [2022-01-13 19:25:25,712] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:25:25,720] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2022-01-13 19:26:26,483] {processor.py:163} INFO - Started process (PID=99954) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:26:26,483] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:26:26,484] {logging_mixin.py:109} INFO - [2022-01-13 19:26:26,484] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:26:26,559] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:26:26,592] {logging_mixin.py:109} INFO - [2022-01-13 19:26:26,592] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:26,609] {logging_mixin.py:109} INFO - [2022-01-13 19:26:26,609] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:26:26,619] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.137 seconds
+[2022-01-13 19:27:29,407] {processor.py:163} INFO - Started process (PID=261) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:27:29,407] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:27:29,408] {logging_mixin.py:109} INFO - [2022-01-13 19:27:29,408] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:27:29,474] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:27:29,504] {logging_mixin.py:109} INFO - [2022-01-13 19:27:29,503] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:29,520] {logging_mixin.py:109} INFO - [2022-01-13 19:27:29,520] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:27:29,529] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.124 seconds
+[2022-01-13 19:28:12,071] {processor.py:163} INFO - Started process (PID=436) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:28:12,071] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:28:12,071] {logging_mixin.py:109} INFO - [2022-01-13 19:28:12,071] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:28:12,126] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:28:12,152] {logging_mixin.py:109} INFO - [2022-01-13 19:28:12,152] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:12,164] {logging_mixin.py:109} INFO - [2022-01-13 19:28:12,164] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:28:12,172] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2022-01-13 19:29:04,731] {processor.py:163} INFO - Started process (PID=671) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:29:04,732] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:29:04,732] {logging_mixin.py:109} INFO - [2022-01-13 19:29:04,732] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:29:04,797] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:29:04,824] {logging_mixin.py:109} INFO - [2022-01-13 19:29:04,824] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:04,836] {logging_mixin.py:109} INFO - [2022-01-13 19:29:04,836] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:29:04,843] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.113 seconds
+[2022-01-13 19:29:49,141] {processor.py:163} INFO - Started process (PID=828) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:29:49,141] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:29:49,142] {logging_mixin.py:109} INFO - [2022-01-13 19:29:49,142] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:29:49,196] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:29:49,221] {logging_mixin.py:109} INFO - [2022-01-13 19:29:49,220] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:49,233] {logging_mixin.py:109} INFO - [2022-01-13 19:29:49,233] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:29:49,240] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-01-13 19:30:38,288] {processor.py:163} INFO - Started process (PID=1006) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:30:38,289] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:30:38,290] {logging_mixin.py:109} INFO - [2022-01-13 19:30:38,289] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:30:38,368] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:30:38,403] {logging_mixin.py:109} INFO - [2022-01-13 19:30:38,403] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:38,423] {logging_mixin.py:109} INFO - [2022-01-13 19:30:38,423] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:30:38,435] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2022-01-13 19:31:21,406] {processor.py:163} INFO - Started process (PID=1138) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:31:21,407] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:31:21,408] {logging_mixin.py:109} INFO - [2022-01-13 19:31:21,408] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:31:21,464] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:31:21,487] {logging_mixin.py:109} INFO - [2022-01-13 19:31:21,487] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:21,500] {logging_mixin.py:109} INFO - [2022-01-13 19:31:21,500] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:31:21,507] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2022-01-13 19:32:06,198] {processor.py:163} INFO - Started process (PID=1271) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:32:06,199] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:32:06,199] {logging_mixin.py:109} INFO - [2022-01-13 19:32:06,199] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:32:06,259] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:32:06,285] {logging_mixin.py:109} INFO - [2022-01-13 19:32:06,284] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:06,299] {logging_mixin.py:109} INFO - [2022-01-13 19:32:06,299] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:32:06,307] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.110 seconds
+[2022-01-13 19:32:49,650] {processor.py:163} INFO - Started process (PID=1420) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:32:49,651] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:32:49,651] {logging_mixin.py:109} INFO - [2022-01-13 19:32:49,651] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:32:49,702] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:32:49,725] {logging_mixin.py:109} INFO - [2022-01-13 19:32:49,725] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:49,737] {logging_mixin.py:109} INFO - [2022-01-13 19:32:49,737] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:32:49,744] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2022-01-13 19:33:29,899] {processor.py:163} INFO - Started process (PID=1570) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:33:29,899] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:33:29,900] {logging_mixin.py:109} INFO - [2022-01-13 19:33:29,900] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:33:29,958] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:33:29,982] {logging_mixin.py:109} INFO - [2022-01-13 19:33:29,982] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:29,995] {logging_mixin.py:109} INFO - [2022-01-13 19:33:29,995] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:33:30,002] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-01-13 19:34:11,014] {processor.py:163} INFO - Started process (PID=1706) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:34:11,015] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:34:11,015] {logging_mixin.py:109} INFO - [2022-01-13 19:34:11,015] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:34:11,067] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:34:11,089] {logging_mixin.py:109} INFO - [2022-01-13 19:34:11,089] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:11,101] {logging_mixin.py:109} INFO - [2022-01-13 19:34:11,101] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:34:11,108] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2022-01-13 19:34:47,698] {processor.py:163} INFO - Started process (PID=1830) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:34:47,698] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:34:47,698] {logging_mixin.py:109} INFO - [2022-01-13 19:34:47,698] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:34:47,748] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:34:47,772] {logging_mixin.py:109} INFO - [2022-01-13 19:34:47,772] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:47,785] {logging_mixin.py:109} INFO - [2022-01-13 19:34:47,785] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:34:47,793] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2022-01-13 19:35:27,910] {processor.py:163} INFO - Started process (PID=1955) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:35:27,910] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:35:27,911] {logging_mixin.py:109} INFO - [2022-01-13 19:35:27,911] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:35:27,966] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:35:27,992] {logging_mixin.py:109} INFO - [2022-01-13 19:35:27,992] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:28,006] {logging_mixin.py:109} INFO - [2022-01-13 19:35:28,005] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:35:28,013] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-01-13 19:36:05,969] {processor.py:163} INFO - Started process (PID=2084) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:36:05,969] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:36:05,969] {logging_mixin.py:109} INFO - [2022-01-13 19:36:05,969] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:36:06,020] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:36:06,042] {logging_mixin.py:109} INFO - [2022-01-13 19:36:06,042] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:06,055] {logging_mixin.py:109} INFO - [2022-01-13 19:36:06,054] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:36:06,062] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds
+[2022-01-13 19:36:49,402] {processor.py:163} INFO - Started process (PID=2221) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:36:49,403] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:36:49,403] {logging_mixin.py:109} INFO - [2022-01-13 19:36:49,403] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:36:49,456] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:36:49,482] {logging_mixin.py:109} INFO - [2022-01-13 19:36:49,481] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:49,494] {logging_mixin.py:109} INFO - [2022-01-13 19:36:49,494] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:36:49,501] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-01-13 19:37:30,743] {processor.py:163} INFO - Started process (PID=2380) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:37:30,743] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:37:30,744] {logging_mixin.py:109} INFO - [2022-01-13 19:37:30,744] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:37:30,819] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:37:30,852] {logging_mixin.py:109} INFO - [2022-01-13 19:37:30,852] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:30,869] {logging_mixin.py:109} INFO - [2022-01-13 19:37:30,869] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:37:30,878] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.137 seconds
+[2022-01-13 19:38:28,897] {processor.py:163} INFO - Started process (PID=2587) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:38:28,897] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-01-13 19:38:28,898] {logging_mixin.py:109} INFO - [2022-01-13 19:38:28,898] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:38:28,989] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-01-13 19:38:29,029] {logging_mixin.py:109} INFO - [2022-01-13 19:38:29,029] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:29,047] {logging_mixin.py:109} INFO - [2022-01-13 19:38:29,047] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-01-13 19:38:29,057] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.162 seconds

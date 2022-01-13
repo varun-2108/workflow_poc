@@ -2427,3 +2427,136 @@
 [2022-01-13 19:24:31,733] {logging_mixin.py:109} INFO - [2022-01-13 19:24:31,733] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-01-13 19:24:31,750] {logging_mixin.py:109} INFO - [2022-01-13 19:24:31,750] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T13:54:31.749860+00:00
 [2022-01-13 19:24:31,762] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.114 seconds
+[2022-01-13 19:25:10,700] {processor.py:163} INFO - Started process (PID=99731) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:25:10,701] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:25:10,701] {logging_mixin.py:109} INFO - [2022-01-13 19:25:10,701] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:25:10,745] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:25:10,766] {logging_mixin.py:109} INFO - [2022-01-13 19:25:10,766] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:10,778] {logging_mixin.py:109} INFO - [2022-01-13 19:25:10,778] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T13:55:10.778236+00:00
+[2022-01-13 19:25:10,786] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.087 seconds
+[2022-01-13 19:26:04,291] {processor.py:163} INFO - Started process (PID=99899) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:26:04,292] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:26:04,292] {logging_mixin.py:109} INFO - [2022-01-13 19:26:04,292] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:26:04,355] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:26:04,383] {logging_mixin.py:109} INFO - [2022-01-13 19:26:04,383] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:04,402] {logging_mixin.py:109} INFO - [2022-01-13 19:26:04,402] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T13:56:04.401878+00:00
+[2022-01-13 19:26:04,413] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.123 seconds
+[2022-01-13 19:27:07,405] {processor.py:163} INFO - Started process (PID=195) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:27:07,406] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:27:07,408] {logging_mixin.py:109} INFO - [2022-01-13 19:27:07,408] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:27:07,501] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:27:07,539] {logging_mixin.py:109} INFO - [2022-01-13 19:27:07,538] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:07,561] {logging_mixin.py:109} INFO - [2022-01-13 19:27:07,561] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T13:57:07.560673+00:00
+[2022-01-13 19:27:07,575] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.172 seconds
+[2022-01-13 19:27:53,172] {processor.py:163} INFO - Started process (PID=348) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:27:53,173] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:27:53,173] {logging_mixin.py:109} INFO - [2022-01-13 19:27:53,173] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:27:53,228] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:27:53,255] {logging_mixin.py:109} INFO - [2022-01-13 19:27:53,255] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:53,271] {logging_mixin.py:109} INFO - [2022-01-13 19:27:53,271] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T13:57:53.271008+00:00
+[2022-01-13 19:27:53,281] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.109 seconds
+[2022-01-13 19:28:34,381] {processor.py:163} INFO - Started process (PID=541) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:28:34,381] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:28:34,382] {logging_mixin.py:109} INFO - [2022-01-13 19:28:34,382] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:28:34,466] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:28:34,500] {logging_mixin.py:109} INFO - [2022-01-13 19:28:34,500] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:34,523] {logging_mixin.py:109} INFO - [2022-01-13 19:28:34,523] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T13:58:34.523255+00:00
+[2022-01-13 19:28:34,536] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.158 seconds
+[2022-01-13 19:29:13,447] {processor.py:163} INFO - Started process (PID=697) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:29:13,448] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:29:13,448] {logging_mixin.py:109} INFO - [2022-01-13 19:29:13,448] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:29:13,508] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:29:13,536] {logging_mixin.py:109} INFO - [2022-01-13 19:29:13,536] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:13,558] {logging_mixin.py:109} INFO - [2022-01-13 19:29:13,558] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T13:59:13.557968+00:00
+[2022-01-13 19:29:13,580] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.134 seconds
+[2022-01-13 19:29:55,920] {processor.py:163} INFO - Started process (PID=847) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:29:55,921] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:29:55,921] {logging_mixin.py:109} INFO - [2022-01-13 19:29:55,921] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:29:55,969] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:29:55,988] {logging_mixin.py:109} INFO - [2022-01-13 19:29:55,988] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:56,001] {logging_mixin.py:109} INFO - [2022-01-13 19:29:56,001] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T13:59:56.001144+00:00
+[2022-01-13 19:29:56,009] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.090 seconds
+[2022-01-13 19:30:49,184] {processor.py:163} INFO - Started process (PID=1031) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:30:49,184] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:30:49,206] {logging_mixin.py:109} INFO - [2022-01-13 19:30:49,206] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:30:49,259] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:30:49,283] {logging_mixin.py:109} INFO - [2022-01-13 19:30:49,283] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:49,299] {logging_mixin.py:109} INFO - [2022-01-13 19:30:49,299] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:00:49.299499+00:00
+[2022-01-13 19:30:49,309] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.126 seconds
+[2022-01-13 19:31:28,569] {processor.py:163} INFO - Started process (PID=1158) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:31:28,571] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:31:28,571] {logging_mixin.py:109} INFO - [2022-01-13 19:31:28,571] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:31:28,652] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:31:28,695] {logging_mixin.py:109} INFO - [2022-01-13 19:31:28,695] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:28,729] {logging_mixin.py:109} INFO - [2022-01-13 19:31:28,729] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:01:28.729295+00:00
+[2022-01-13 19:31:28,748] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.181 seconds
+[2022-01-13 19:32:11,314] {processor.py:163} INFO - Started process (PID=1285) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:32:11,315] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:32:11,315] {logging_mixin.py:109} INFO - [2022-01-13 19:32:11,315] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:32:11,362] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:32:11,382] {logging_mixin.py:109} INFO - [2022-01-13 19:32:11,382] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:11,396] {logging_mixin.py:109} INFO - [2022-01-13 19:32:11,395] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:02:11.395782+00:00
+[2022-01-13 19:32:11,403] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.090 seconds
+[2022-01-13 19:32:55,327] {processor.py:163} INFO - Started process (PID=1444) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:32:55,328] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:32:55,328] {logging_mixin.py:109} INFO - [2022-01-13 19:32:55,328] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:32:55,371] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:32:55,390] {logging_mixin.py:109} INFO - [2022-01-13 19:32:55,390] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:55,403] {logging_mixin.py:109} INFO - [2022-01-13 19:32:55,402] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:02:55.402788+00:00
+[2022-01-13 19:32:55,410] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2022-01-13 19:33:36,528] {processor.py:163} INFO - Started process (PID=1606) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:33:36,529] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:33:36,529] {logging_mixin.py:109} INFO - [2022-01-13 19:33:36,529] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:33:36,578] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:33:36,599] {logging_mixin.py:109} INFO - [2022-01-13 19:33:36,599] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:36,612] {logging_mixin.py:109} INFO - [2022-01-13 19:33:36,612] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:03:36.612201+00:00
+[2022-01-13 19:33:36,620] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.093 seconds
+[2022-01-13 19:34:16,562] {processor.py:163} INFO - Started process (PID=1724) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:34:16,562] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:34:16,563] {logging_mixin.py:109} INFO - [2022-01-13 19:34:16,563] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:34:16,606] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:34:16,625] {logging_mixin.py:109} INFO - [2022-01-13 19:34:16,625] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:16,637] {logging_mixin.py:109} INFO - [2022-01-13 19:34:16,637] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:04:16.637474+00:00
+[2022-01-13 19:34:16,644] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.083 seconds
+[2022-01-13 19:34:53,498] {processor.py:163} INFO - Started process (PID=1847) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:34:53,498] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:34:53,499] {logging_mixin.py:109} INFO - [2022-01-13 19:34:53,499] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:34:53,545] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:34:53,565] {logging_mixin.py:109} INFO - [2022-01-13 19:34:53,565] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:53,579] {logging_mixin.py:109} INFO - [2022-01-13 19:34:53,579] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:04:53.579134+00:00
+[2022-01-13 19:34:53,586] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.089 seconds
+[2022-01-13 19:35:35,820] {processor.py:163} INFO - Started process (PID=1980) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:35:35,820] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:35:35,820] {logging_mixin.py:109} INFO - [2022-01-13 19:35:35,820] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:35:35,867] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:35:35,886] {logging_mixin.py:109} INFO - [2022-01-13 19:35:35,886] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:35,899] {logging_mixin.py:109} INFO - [2022-01-13 19:35:35,899] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:05:35.899045+00:00
+[2022-01-13 19:35:35,906] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.087 seconds
+[2022-01-13 19:36:14,542] {processor.py:163} INFO - Started process (PID=2114) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:36:14,542] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:36:14,543] {logging_mixin.py:109} INFO - [2022-01-13 19:36:14,543] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:36:14,593] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:36:14,614] {logging_mixin.py:109} INFO - [2022-01-13 19:36:14,613] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:14,627] {logging_mixin.py:109} INFO - [2022-01-13 19:36:14,627] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:06:14.627690+00:00
+[2022-01-13 19:36:14,637] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.096 seconds
+[2022-01-13 19:36:57,121] {processor.py:163} INFO - Started process (PID=2249) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:36:57,121] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:36:57,122] {logging_mixin.py:109} INFO - [2022-01-13 19:36:57,122] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:36:57,166] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:36:57,185] {logging_mixin.py:109} INFO - [2022-01-13 19:36:57,184] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:57,198] {logging_mixin.py:109} INFO - [2022-01-13 19:36:57,198] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:06:57.198582+00:00
+[2022-01-13 19:36:57,206] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2022-01-13 19:37:40,920] {processor.py:163} INFO - Started process (PID=2421) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:37:40,920] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:37:40,921] {logging_mixin.py:109} INFO - [2022-01-13 19:37:40,921] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:37:40,981] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:37:41,009] {logging_mixin.py:109} INFO - [2022-01-13 19:37:41,009] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:41,030] {logging_mixin.py:109} INFO - [2022-01-13 19:37:41,029] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:07:41.029613+00:00
+[2022-01-13 19:37:41,039] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.121 seconds
+[2022-01-13 19:38:25,934] {processor.py:163} INFO - Started process (PID=2580) to work on /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:38:25,934] {processor.py:642} INFO - Processing file /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-01-13 19:38:25,935] {logging_mixin.py:109} INFO - [2022-01-13 19:38:25,935] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:38:26,003] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-01-13 19:38:26,032] {logging_mixin.py:109} INFO - [2022-01-13 19:38:26,031] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:26,051] {logging_mixin.py:109} INFO - [2022-01-13 19:38:26,051] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-01-12T14:08:26.051555+00:00
+[2022-01-13 19:38:26,064] {processor.py:171} INFO - Processing /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.131 seconds

@@ -29724,3 +29724,747 @@ SyntaxError: invalid character in identifier
 [2022-01-13 19:25:06,934] {logging_mixin.py:109} INFO - [2022-01-13 19:25:06,934] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-01-13 19:25:06,946] {logging_mixin.py:109} INFO - [2022-01-13 19:25:06,946] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
 [2022-01-13 19:25:06,953] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.210 seconds
+[2022-01-13 19:25:14,689] {processor.py:163} INFO - Started process (PID=99762) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:14,689] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:25:14,690] {logging_mixin.py:109} INFO - [2022-01-13 19:25:14,690] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:14,839] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:25:14,883] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:14,908] {logging_mixin.py:109} INFO - [2022-01-13 19:25:14,908] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:14,922] {logging_mixin.py:109} INFO - [2022-01-13 19:25:14,922] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:25:14,930] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.242 seconds
+[2022-01-13 19:25:21,355] {processor.py:163} INFO - Started process (PID=99786) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:21,355] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:25:21,356] {logging_mixin.py:109} INFO - [2022-01-13 19:25:21,356] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:21,495] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:25:21,540] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:21,563] {logging_mixin.py:109} INFO - [2022-01-13 19:25:21,563] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:21,576] {logging_mixin.py:109} INFO - [2022-01-13 19:25:21,576] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:25:21,584] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.230 seconds
+[2022-01-13 19:25:27,733] {processor.py:163} INFO - Started process (PID=99809) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:27,733] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:25:27,733] {logging_mixin.py:109} INFO - [2022-01-13 19:25:27,733] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:27,896] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:25:27,947] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:27,975] {logging_mixin.py:109} INFO - [2022-01-13 19:25:27,975] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:27,992] {logging_mixin.py:109} INFO - [2022-01-13 19:25:27,992] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:25:28,002] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.270 seconds
+[2022-01-13 19:25:34,553] {processor.py:163} INFO - Started process (PID=99835) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:34,554] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:25:34,554] {logging_mixin.py:109} INFO - [2022-01-13 19:25:34,554] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:34,710] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:25:34,765] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:34,797] {logging_mixin.py:109} INFO - [2022-01-13 19:25:34,797] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:34,817] {logging_mixin.py:109} INFO - [2022-01-13 19:25:34,817] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:25:34,829] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.277 seconds
+[2022-01-13 19:25:42,742] {processor.py:163} INFO - Started process (PID=99856) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:42,743] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:25:42,743] {logging_mixin.py:109} INFO - [2022-01-13 19:25:42,743] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:42,931] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:25:42,985] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:43,014] {logging_mixin.py:109} INFO - [2022-01-13 19:25:43,013] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:43,031] {logging_mixin.py:109} INFO - [2022-01-13 19:25:43,030] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:25:43,040] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.299 seconds
+[2022-01-13 19:25:52,118] {processor.py:163} INFO - Started process (PID=99876) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:52,119] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:25:52,119] {logging_mixin.py:109} INFO - [2022-01-13 19:25:52,119] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:52,334] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:25:52,397] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:25:52,432] {logging_mixin.py:109} INFO - [2022-01-13 19:25:52,431] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:25:52,452] {logging_mixin.py:109} INFO - [2022-01-13 19:25:52,452] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:25:52,464] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.347 seconds
+[2022-01-13 19:26:08,715] {processor.py:163} INFO - Started process (PID=99908) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:26:08,716] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:26:08,716] {logging_mixin.py:109} INFO - [2022-01-13 19:26:08,716] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:26:08,902] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:26:08,958] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:26:08,988] {logging_mixin.py:109} INFO - [2022-01-13 19:26:08,987] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:09,005] {logging_mixin.py:109} INFO - [2022-01-13 19:26:09,005] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:26:09,015] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.301 seconds
+[2022-01-13 19:26:29,446] {processor.py:163} INFO - Started process (PID=99961) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:26:29,448] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:26:29,448] {logging_mixin.py:109} INFO - [2022-01-13 19:26:29,448] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:26:29,660] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:26:29,742] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:26:29,785] {logging_mixin.py:109} INFO - [2022-01-13 19:26:29,785] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:29,810] {logging_mixin.py:109} INFO - [2022-01-13 19:26:29,810] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:26:29,822] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.377 seconds
+[2022-01-13 19:26:50,602] {processor.py:163} INFO - Started process (PID=102) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:26:50,603] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:26:50,604] {logging_mixin.py:109} INFO - [2022-01-13 19:26:50,604] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:26:50,869] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:26:50,927] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:26:50,957] {logging_mixin.py:109} INFO - [2022-01-13 19:26:50,956] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:26:50,974] {logging_mixin.py:109} INFO - [2022-01-13 19:26:50,974] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:26:50,984] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.383 seconds
+[2022-01-13 19:27:13,667] {processor.py:163} INFO - Started process (PID=210) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:13,668] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:27:13,668] {logging_mixin.py:109} INFO - [2022-01-13 19:27:13,668] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:13,911] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:27:13,988] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:14,030] {logging_mixin.py:109} INFO - [2022-01-13 19:27:14,030] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:14,053] {logging_mixin.py:109} INFO - [2022-01-13 19:27:14,052] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:27:14,069] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.403 seconds
+[2022-01-13 19:27:31,841] {processor.py:163} INFO - Started process (PID=267) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:31,841] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:27:31,842] {logging_mixin.py:109} INFO - [2022-01-13 19:27:31,842] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:32,006] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:27:32,057] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:32,084] {logging_mixin.py:109} INFO - [2022-01-13 19:27:32,083] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:32,101] {logging_mixin.py:109} INFO - [2022-01-13 19:27:32,101] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:27:32,112] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.274 seconds
+[2022-01-13 19:27:45,752] {processor.py:163} INFO - Started process (PID=310) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:45,753] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:27:45,754] {logging_mixin.py:109} INFO - [2022-01-13 19:27:45,754] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:45,899] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:27:45,944] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:45,966] {logging_mixin.py:109} INFO - [2022-01-13 19:27:45,966] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:45,981] {logging_mixin.py:109} INFO - [2022-01-13 19:27:45,980] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:27:45,989] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.239 seconds
+[2022-01-13 19:27:57,403] {processor.py:163} INFO - Started process (PID=374) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:57,403] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:27:57,403] {logging_mixin.py:109} INFO - [2022-01-13 19:27:57,403] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:57,543] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:27:57,586] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:27:57,610] {logging_mixin.py:109} INFO - [2022-01-13 19:27:57,610] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:27:57,623] {logging_mixin.py:109} INFO - [2022-01-13 19:27:57,623] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:27:57,631] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.229 seconds
+[2022-01-13 19:28:06,374] {processor.py:163} INFO - Started process (PID=407) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:06,374] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:28:06,375] {logging_mixin.py:109} INFO - [2022-01-13 19:28:06,374] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:06,554] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:28:06,604] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:06,628] {logging_mixin.py:109} INFO - [2022-01-13 19:28:06,628] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:06,641] {logging_mixin.py:109} INFO - [2022-01-13 19:28:06,641] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:28:06,648] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.275 seconds
+[2022-01-13 19:28:14,057] {processor.py:163} INFO - Started process (PID=444) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:14,058] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:28:14,058] {logging_mixin.py:109} INFO - [2022-01-13 19:28:14,058] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:14,193] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:28:14,236] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:14,259] {logging_mixin.py:109} INFO - [2022-01-13 19:28:14,259] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:14,272] {logging_mixin.py:109} INFO - [2022-01-13 19:28:14,272] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:28:14,280] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.224 seconds
+[2022-01-13 19:28:26,073] {processor.py:163} INFO - Started process (PID=488) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:26,073] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:28:26,074] {logging_mixin.py:109} INFO - [2022-01-13 19:28:26,074] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:26,232] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:28:26,285] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:26,311] {logging_mixin.py:109} INFO - [2022-01-13 19:28:26,311] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:26,327] {logging_mixin.py:109} INFO - [2022-01-13 19:28:26,327] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:28:26,357] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.286 seconds
+[2022-01-13 19:28:40,049] {processor.py:163} INFO - Started process (PID=568) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:40,050] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:28:40,050] {logging_mixin.py:109} INFO - [2022-01-13 19:28:40,050] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:40,235] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:28:40,294] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:40,324] {logging_mixin.py:109} INFO - [2022-01-13 19:28:40,323] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:40,340] {logging_mixin.py:109} INFO - [2022-01-13 19:28:40,340] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:28:40,350] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.302 seconds
+[2022-01-13 19:28:55,006] {processor.py:163} INFO - Started process (PID=625) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:55,007] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:28:55,007] {logging_mixin.py:109} INFO - [2022-01-13 19:28:55,007] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:55,170] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:28:55,220] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:28:55,246] {logging_mixin.py:109} INFO - [2022-01-13 19:28:55,246] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:28:55,263] {logging_mixin.py:109} INFO - [2022-01-13 19:28:55,263] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:28:55,273] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.268 seconds
+[2022-01-13 19:29:07,019] {processor.py:163} INFO - Started process (PID=676) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:07,019] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:29:07,020] {logging_mixin.py:109} INFO - [2022-01-13 19:29:07,019] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:07,194] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:29:07,242] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:07,270] {logging_mixin.py:109} INFO - [2022-01-13 19:29:07,270] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:07,291] {logging_mixin.py:109} INFO - [2022-01-13 19:29:07,291] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:29:07,303] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.286 seconds
+[2022-01-13 19:29:18,435] {processor.py:163} INFO - Started process (PID=721) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:18,435] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:29:18,436] {logging_mixin.py:109} INFO - [2022-01-13 19:29:18,436] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:18,588] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:29:18,636] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:18,660] {logging_mixin.py:109} INFO - [2022-01-13 19:29:18,660] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:18,674] {logging_mixin.py:109} INFO - [2022-01-13 19:29:18,674] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:29:18,682] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.248 seconds
+[2022-01-13 19:29:26,952] {processor.py:163} INFO - Started process (PID=748) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:26,952] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:29:26,953] {logging_mixin.py:109} INFO - [2022-01-13 19:29:26,953] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:27,092] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:29:27,136] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:27,159] {logging_mixin.py:109} INFO - [2022-01-13 19:29:27,159] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:27,174] {logging_mixin.py:109} INFO - [2022-01-13 19:29:27,173] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:29:27,182] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.231 seconds
+[2022-01-13 19:29:33,940] {processor.py:163} INFO - Started process (PID=777) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:33,941] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:29:33,941] {logging_mixin.py:109} INFO - [2022-01-13 19:29:33,941] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:34,076] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:29:34,127] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:34,154] {logging_mixin.py:109} INFO - [2022-01-13 19:29:34,154] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:34,171] {logging_mixin.py:109} INFO - [2022-01-13 19:29:34,171] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:29:34,180] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.240 seconds
+[2022-01-13 19:29:43,027] {processor.py:163} INFO - Started process (PID=809) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:43,030] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:29:43,031] {logging_mixin.py:109} INFO - [2022-01-13 19:29:43,031] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:43,200] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:29:43,246] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:43,271] {logging_mixin.py:109} INFO - [2022-01-13 19:29:43,271] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:43,284] {logging_mixin.py:109} INFO - [2022-01-13 19:29:43,284] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:29:43,292] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.267 seconds
+[2022-01-13 19:29:51,185] {processor.py:163} INFO - Started process (PID=835) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:51,186] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:29:51,186] {logging_mixin.py:109} INFO - [2022-01-13 19:29:51,186] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:51,329] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:29:51,375] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:51,400] {logging_mixin.py:109} INFO - [2022-01-13 19:29:51,400] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:29:51,415] {logging_mixin.py:109} INFO - [2022-01-13 19:29:51,415] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:29:51,424] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.240 seconds
+[2022-01-13 19:29:59,919] {processor.py:163} INFO - Started process (PID=862) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:29:59,920] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:29:59,921] {logging_mixin.py:109} INFO - [2022-01-13 19:29:59,921] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:00,087] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:30:00,128] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:00,154] {logging_mixin.py:109} INFO - [2022-01-13 19:30:00,153] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:00,168] {logging_mixin.py:109} INFO - [2022-01-13 19:30:00,167] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:30:00,175] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.260 seconds
+[2022-01-13 19:30:09,159] {processor.py:163} INFO - Started process (PID=914) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:09,160] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:30:09,160] {logging_mixin.py:109} INFO - [2022-01-13 19:30:09,160] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:09,305] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:30:09,349] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:09,373] {logging_mixin.py:109} INFO - [2022-01-13 19:30:09,372] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:09,386] {logging_mixin.py:109} INFO - [2022-01-13 19:30:09,386] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:30:09,394] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.236 seconds
+[2022-01-13 19:30:17,246] {processor.py:163} INFO - Started process (PID=951) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:17,246] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:30:17,247] {logging_mixin.py:109} INFO - [2022-01-13 19:30:17,247] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:17,529] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:30:17,587] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:17,612] {logging_mixin.py:109} INFO - [2022-01-13 19:30:17,612] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:17,628] {logging_mixin.py:109} INFO - [2022-01-13 19:30:17,628] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:30:17,637] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.394 seconds
+[2022-01-13 19:30:28,776] {processor.py:163} INFO - Started process (PID=975) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:28,776] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:30:28,777] {logging_mixin.py:109} INFO - [2022-01-13 19:30:28,777] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:28,963] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:30:29,022] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:29,050] {logging_mixin.py:109} INFO - [2022-01-13 19:30:29,049] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:29,066] {logging_mixin.py:109} INFO - [2022-01-13 19:30:29,066] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:30:29,076] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.301 seconds
+[2022-01-13 19:30:41,035] {processor.py:163} INFO - Started process (PID=1012) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:41,036] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:30:41,036] {logging_mixin.py:109} INFO - [2022-01-13 19:30:41,036] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:41,229] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:30:41,291] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:41,321] {logging_mixin.py:109} INFO - [2022-01-13 19:30:41,321] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:41,338] {logging_mixin.py:109} INFO - [2022-01-13 19:30:41,338] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:30:41,348] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.315 seconds
+[2022-01-13 19:30:57,269] {processor.py:163} INFO - Started process (PID=1053) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:57,269] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:30:57,270] {logging_mixin.py:109} INFO - [2022-01-13 19:30:57,270] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:57,424] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:30:57,468] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:30:57,491] {logging_mixin.py:109} INFO - [2022-01-13 19:30:57,491] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:30:57,504] {logging_mixin.py:109} INFO - [2022-01-13 19:30:57,504] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:30:57,512] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.245 seconds
+[2022-01-13 19:31:08,819] {processor.py:163} INFO - Started process (PID=1087) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:08,820] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:31:08,820] {logging_mixin.py:109} INFO - [2022-01-13 19:31:08,820] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:09,057] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:31:09,142] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:09,168] {logging_mixin.py:109} INFO - [2022-01-13 19:31:09,168] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:09,184] {logging_mixin.py:109} INFO - [2022-01-13 19:31:09,184] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:31:09,193] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.375 seconds
+[2022-01-13 19:31:16,998] {processor.py:163} INFO - Started process (PID=1123) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:16,998] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:31:16,998] {logging_mixin.py:109} INFO - [2022-01-13 19:31:16,998] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:17,150] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:31:17,196] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:17,220] {logging_mixin.py:109} INFO - [2022-01-13 19:31:17,220] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:17,233] {logging_mixin.py:109} INFO - [2022-01-13 19:31:17,233] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:31:17,241] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.244 seconds
+[2022-01-13 19:31:23,572] {processor.py:163} INFO - Started process (PID=1145) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:23,575] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:31:23,576] {logging_mixin.py:109} INFO - [2022-01-13 19:31:23,576] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:23,724] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:31:23,776] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:23,800] {logging_mixin.py:109} INFO - [2022-01-13 19:31:23,800] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:23,814] {logging_mixin.py:109} INFO - [2022-01-13 19:31:23,814] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:31:23,822] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.252 seconds
+[2022-01-13 19:31:32,749] {processor.py:163} INFO - Started process (PID=1170) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:32,749] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:31:32,750] {logging_mixin.py:109} INFO - [2022-01-13 19:31:32,750] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:32,917] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:31:32,971] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:32,997] {logging_mixin.py:109} INFO - [2022-01-13 19:31:32,996] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:33,012] {logging_mixin.py:109} INFO - [2022-01-13 19:31:33,012] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:31:33,020] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.273 seconds
+[2022-01-13 19:31:41,900] {processor.py:163} INFO - Started process (PID=1195) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:41,901] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:31:41,901] {logging_mixin.py:109} INFO - [2022-01-13 19:31:41,901] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:42,053] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:31:42,099] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:42,125] {logging_mixin.py:109} INFO - [2022-01-13 19:31:42,125] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:42,138] {logging_mixin.py:109} INFO - [2022-01-13 19:31:42,138] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:31:42,146] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.247 seconds
+[2022-01-13 19:31:49,379] {processor.py:163} INFO - Started process (PID=1221) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:49,379] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:31:49,379] {logging_mixin.py:109} INFO - [2022-01-13 19:31:49,379] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:49,529] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:31:49,576] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:49,601] {logging_mixin.py:109} INFO - [2022-01-13 19:31:49,601] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:49,616] {logging_mixin.py:109} INFO - [2022-01-13 19:31:49,616] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:31:49,624] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.247 seconds
+[2022-01-13 19:31:59,266] {processor.py:163} INFO - Started process (PID=1251) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:59,266] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:31:59,267] {logging_mixin.py:109} INFO - [2022-01-13 19:31:59,267] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:59,399] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:31:59,443] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:31:59,464] {logging_mixin.py:109} INFO - [2022-01-13 19:31:59,464] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:31:59,477] {logging_mixin.py:109} INFO - [2022-01-13 19:31:59,477] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:31:59,484] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.220 seconds
+[2022-01-13 19:32:08,830] {processor.py:163} INFO - Started process (PID=1277) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:08,831] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:32:08,831] {logging_mixin.py:109} INFO - [2022-01-13 19:32:08,831] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:08,982] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:32:09,033] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:09,066] {logging_mixin.py:109} INFO - [2022-01-13 19:32:09,065] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:09,085] {logging_mixin.py:109} INFO - [2022-01-13 19:32:09,085] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:32:09,097] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.268 seconds
+[2022-01-13 19:32:15,625] {processor.py:163} INFO - Started process (PID=1297) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:15,625] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:32:15,626] {logging_mixin.py:109} INFO - [2022-01-13 19:32:15,626] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:15,771] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:32:15,817] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:15,840] {logging_mixin.py:109} INFO - [2022-01-13 19:32:15,840] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:15,854] {logging_mixin.py:109} INFO - [2022-01-13 19:32:15,854] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:32:15,863] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.239 seconds
+[2022-01-13 19:32:23,317] {processor.py:163} INFO - Started process (PID=1316) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:23,318] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:32:23,318] {logging_mixin.py:109} INFO - [2022-01-13 19:32:23,318] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:23,472] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:32:23,521] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:23,547] {logging_mixin.py:109} INFO - [2022-01-13 19:32:23,547] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:23,565] {logging_mixin.py:109} INFO - [2022-01-13 19:32:23,564] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:32:23,576] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.260 seconds
+[2022-01-13 19:32:32,525] {processor.py:163} INFO - Started process (PID=1362) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:32,526] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:32:32,526] {logging_mixin.py:109} INFO - [2022-01-13 19:32:32,526] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:32,677] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:32:32,724] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:32,750] {logging_mixin.py:109} INFO - [2022-01-13 19:32:32,750] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:32,767] {logging_mixin.py:109} INFO - [2022-01-13 19:32:32,767] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:32:32,776] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.251 seconds
+[2022-01-13 19:32:41,406] {processor.py:163} INFO - Started process (PID=1394) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:41,406] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:32:41,407] {logging_mixin.py:109} INFO - [2022-01-13 19:32:41,407] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:41,543] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:32:41,586] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:41,610] {logging_mixin.py:109} INFO - [2022-01-13 19:32:41,609] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:41,622] {logging_mixin.py:109} INFO - [2022-01-13 19:32:41,622] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:32:41,630] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.225 seconds
+[2022-01-13 19:32:51,495] {processor.py:163} INFO - Started process (PID=1427) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:51,496] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:32:51,496] {logging_mixin.py:109} INFO - [2022-01-13 19:32:51,496] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:51,623] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:32:51,662] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:51,683] {logging_mixin.py:109} INFO - [2022-01-13 19:32:51,683] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:51,696] {logging_mixin.py:109} INFO - [2022-01-13 19:32:51,696] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:32:51,704] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.210 seconds
+[2022-01-13 19:32:59,103] {processor.py:163} INFO - Started process (PID=1463) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:59,103] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:32:59,104] {logging_mixin.py:109} INFO - [2022-01-13 19:32:59,104] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:59,250] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:32:59,296] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:32:59,319] {logging_mixin.py:109} INFO - [2022-01-13 19:32:59,319] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:32:59,332] {logging_mixin.py:109} INFO - [2022-01-13 19:32:59,331] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:32:59,339] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.237 seconds
+[2022-01-13 19:33:05,644] {processor.py:163} INFO - Started process (PID=1482) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:05,645] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:33:05,646] {logging_mixin.py:109} INFO - [2022-01-13 19:33:05,646] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:05,825] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:33:05,993] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:06,036] {logging_mixin.py:109} INFO - [2022-01-13 19:33:06,035] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:06,053] {logging_mixin.py:109} INFO - [2022-01-13 19:33:06,053] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:33:06,061] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.418 seconds
+[2022-01-13 19:33:12,515] {processor.py:163} INFO - Started process (PID=1503) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:12,515] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:33:12,516] {logging_mixin.py:109} INFO - [2022-01-13 19:33:12,516] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:12,651] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:33:12,695] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:12,718] {logging_mixin.py:109} INFO - [2022-01-13 19:33:12,718] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:12,731] {logging_mixin.py:109} INFO - [2022-01-13 19:33:12,731] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:33:12,738] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.225 seconds
+[2022-01-13 19:33:18,684] {processor.py:163} INFO - Started process (PID=1525) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:18,684] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:33:18,684] {logging_mixin.py:109} INFO - [2022-01-13 19:33:18,684] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:18,825] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:33:18,868] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:18,890] {logging_mixin.py:109} INFO - [2022-01-13 19:33:18,890] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:18,903] {logging_mixin.py:109} INFO - [2022-01-13 19:33:18,902] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:33:18,910] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.228 seconds
+[2022-01-13 19:33:25,057] {processor.py:163} INFO - Started process (PID=1545) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:25,058] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:33:25,058] {logging_mixin.py:109} INFO - [2022-01-13 19:33:25,058] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:25,191] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:33:25,233] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:25,257] {logging_mixin.py:109} INFO - [2022-01-13 19:33:25,257] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:25,271] {logging_mixin.py:109} INFO - [2022-01-13 19:33:25,271] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:33:25,279] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.222 seconds
+[2022-01-13 19:33:31,873] {processor.py:163} INFO - Started process (PID=1578) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:31,874] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:33:31,874] {logging_mixin.py:109} INFO - [2022-01-13 19:33:31,874] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:32,022] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:33:32,066] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:32,089] {logging_mixin.py:109} INFO - [2022-01-13 19:33:32,089] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:32,103] {logging_mixin.py:109} INFO - [2022-01-13 19:33:32,102] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:33:32,110] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.238 seconds
+[2022-01-13 19:33:40,743] {processor.py:163} INFO - Started process (PID=1619) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:40,743] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:33:40,744] {logging_mixin.py:109} INFO - [2022-01-13 19:33:40,743] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:40,894] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:33:40,940] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:40,964] {logging_mixin.py:109} INFO - [2022-01-13 19:33:40,964] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:40,978] {logging_mixin.py:109} INFO - [2022-01-13 19:33:40,978] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:33:40,986] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.244 seconds
+[2022-01-13 19:33:49,688] {processor.py:163} INFO - Started process (PID=1643) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:49,689] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:33:49,689] {logging_mixin.py:109} INFO - [2022-01-13 19:33:49,689] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:49,835] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:33:49,879] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:49,902] {logging_mixin.py:109} INFO - [2022-01-13 19:33:49,901] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:49,916] {logging_mixin.py:109} INFO - [2022-01-13 19:33:49,916] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:33:49,924] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.236 seconds
+[2022-01-13 19:33:57,944] {processor.py:163} INFO - Started process (PID=1668) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:57,944] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:33:57,945] {logging_mixin.py:109} INFO - [2022-01-13 19:33:57,945] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:58,090] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:33:58,143] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:33:58,172] {logging_mixin.py:109} INFO - [2022-01-13 19:33:58,172] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:33:58,191] {logging_mixin.py:109} INFO - [2022-01-13 19:33:58,191] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:33:58,201] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.258 seconds
+[2022-01-13 19:34:06,784] {processor.py:163} INFO - Started process (PID=1690) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:06,785] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:06,785] {logging_mixin.py:109} INFO - [2022-01-13 19:34:06,785] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:06,926] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:06,968] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:06,990] {logging_mixin.py:109} INFO - [2022-01-13 19:34:06,990] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:07,002] {logging_mixin.py:109} INFO - [2022-01-13 19:34:07,002] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:07,009] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.226 seconds
+[2022-01-13 19:34:12,834] {processor.py:163} INFO - Started process (PID=1711) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:12,835] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:12,835] {logging_mixin.py:109} INFO - [2022-01-13 19:34:12,835] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:12,962] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:13,001] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:13,022] {logging_mixin.py:109} INFO - [2022-01-13 19:34:13,022] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:13,034] {logging_mixin.py:109} INFO - [2022-01-13 19:34:13,034] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:13,041] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.207 seconds
+[2022-01-13 19:34:20,235] {processor.py:163} INFO - Started process (PID=1736) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:20,235] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:20,235] {logging_mixin.py:109} INFO - [2022-01-13 19:34:20,235] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:20,364] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:20,403] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:20,424] {logging_mixin.py:109} INFO - [2022-01-13 19:34:20,424] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:20,436] {logging_mixin.py:109} INFO - [2022-01-13 19:34:20,436] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:20,443] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.210 seconds
+[2022-01-13 19:34:25,707] {processor.py:163} INFO - Started process (PID=1754) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:25,707] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:25,707] {logging_mixin.py:109} INFO - [2022-01-13 19:34:25,707] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:25,827] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:25,865] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:25,885] {logging_mixin.py:109} INFO - [2022-01-13 19:34:25,885] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:25,896] {logging_mixin.py:109} INFO - [2022-01-13 19:34:25,896] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:25,903] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.197 seconds
+[2022-01-13 19:34:30,850] {processor.py:163} INFO - Started process (PID=1773) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:30,850] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:30,850] {logging_mixin.py:109} INFO - [2022-01-13 19:34:30,850] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:30,963] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:30,999] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:31,019] {logging_mixin.py:109} INFO - [2022-01-13 19:34:31,019] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:31,031] {logging_mixin.py:109} INFO - [2022-01-13 19:34:31,031] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:31,038] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.189 seconds
+[2022-01-13 19:34:34,331] {processor.py:163} INFO - Started process (PID=1786) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:34,331] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:34,332] {logging_mixin.py:109} INFO - [2022-01-13 19:34:34,332] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:34,457] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:34,496] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:34,517] {logging_mixin.py:109} INFO - [2022-01-13 19:34:34,517] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:34,528] {logging_mixin.py:109} INFO - [2022-01-13 19:34:34,528] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:34,535] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.204 seconds
+[2022-01-13 19:34:38,182] {processor.py:163} INFO - Started process (PID=1798) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:38,183] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:38,183] {logging_mixin.py:109} INFO - [2022-01-13 19:34:38,183] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:38,313] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:38,352] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:38,373] {logging_mixin.py:109} INFO - [2022-01-13 19:34:38,373] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:38,384] {logging_mixin.py:109} INFO - [2022-01-13 19:34:38,384] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:38,391] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.210 seconds
+[2022-01-13 19:34:42,106] {processor.py:163} INFO - Started process (PID=1812) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:42,106] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:42,106] {logging_mixin.py:109} INFO - [2022-01-13 19:34:42,106] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:42,228] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:42,268] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:42,289] {logging_mixin.py:109} INFO - [2022-01-13 19:34:42,288] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:42,300] {logging_mixin.py:109} INFO - [2022-01-13 19:34:42,300] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:42,307] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.202 seconds
+[2022-01-13 19:34:45,719] {processor.py:163} INFO - Started process (PID=1824) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:45,720] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:45,720] {logging_mixin.py:109} INFO - [2022-01-13 19:34:45,720] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:45,846] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:45,884] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:45,903] {logging_mixin.py:109} INFO - [2022-01-13 19:34:45,903] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:45,916] {logging_mixin.py:109} INFO - [2022-01-13 19:34:45,915] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:45,922] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.204 seconds
+[2022-01-13 19:34:49,613] {processor.py:163} INFO - Started process (PID=1835) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:49,614] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:49,614] {logging_mixin.py:109} INFO - [2022-01-13 19:34:49,614] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:49,748] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:49,795] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:49,818] {logging_mixin.py:109} INFO - [2022-01-13 19:34:49,818] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:49,831] {logging_mixin.py:109} INFO - [2022-01-13 19:34:49,831] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:49,838] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.226 seconds
+[2022-01-13 19:34:55,444] {processor.py:163} INFO - Started process (PID=1853) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:55,444] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:34:55,445] {logging_mixin.py:109} INFO - [2022-01-13 19:34:55,444] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:55,565] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:34:55,603] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:34:55,623] {logging_mixin.py:109} INFO - [2022-01-13 19:34:55,623] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:34:55,635] {logging_mixin.py:109} INFO - [2022-01-13 19:34:55,635] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:34:55,642] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.199 seconds
+[2022-01-13 19:35:01,310] {processor.py:163} INFO - Started process (PID=1872) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:01,311] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:35:01,311] {logging_mixin.py:109} INFO - [2022-01-13 19:35:01,311] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:01,442] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:35:01,482] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:01,504] {logging_mixin.py:109} INFO - [2022-01-13 19:35:01,503] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:01,516] {logging_mixin.py:109} INFO - [2022-01-13 19:35:01,516] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:35:01,523] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.214 seconds
+[2022-01-13 19:35:08,120] {processor.py:163} INFO - Started process (PID=1895) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:08,120] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:35:08,121] {logging_mixin.py:109} INFO - [2022-01-13 19:35:08,120] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:08,334] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:35:08,377] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:08,401] {logging_mixin.py:109} INFO - [2022-01-13 19:35:08,400] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:08,415] {logging_mixin.py:109} INFO - [2022-01-13 19:35:08,415] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:35:08,422] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.304 seconds
+[2022-01-13 19:35:14,910] {processor.py:163} INFO - Started process (PID=1915) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:14,910] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:35:14,911] {logging_mixin.py:109} INFO - [2022-01-13 19:35:14,911] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:15,061] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:35:15,109] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:15,134] {logging_mixin.py:109} INFO - [2022-01-13 19:35:15,133] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:15,149] {logging_mixin.py:109} INFO - [2022-01-13 19:35:15,149] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:35:15,158] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.250 seconds
+[2022-01-13 19:35:23,320] {processor.py:163} INFO - Started process (PID=1938) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:23,320] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:35:23,321] {logging_mixin.py:109} INFO - [2022-01-13 19:35:23,321] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:23,463] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:35:23,507] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:23,530] {logging_mixin.py:109} INFO - [2022-01-13 19:35:23,529] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:23,543] {logging_mixin.py:109} INFO - [2022-01-13 19:35:23,543] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:35:23,551] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.232 seconds
+[2022-01-13 19:35:29,841] {processor.py:163} INFO - Started process (PID=1961) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:29,842] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:35:29,842] {logging_mixin.py:109} INFO - [2022-01-13 19:35:29,842] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:29,976] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:35:30,017] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:30,040] {logging_mixin.py:109} INFO - [2022-01-13 19:35:30,039] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:30,051] {logging_mixin.py:109} INFO - [2022-01-13 19:35:30,051] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:35:30,059] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.218 seconds
+[2022-01-13 19:35:37,786] {processor.py:163} INFO - Started process (PID=1986) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:37,786] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:35:37,787] {logging_mixin.py:109} INFO - [2022-01-13 19:35:37,787] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:37,930] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:35:37,974] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:37,997] {logging_mixin.py:109} INFO - [2022-01-13 19:35:37,997] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:38,010] {logging_mixin.py:109} INFO - [2022-01-13 19:35:38,010] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:35:38,028] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.244 seconds
+[2022-01-13 19:35:43,593] {processor.py:163} INFO - Started process (PID=2007) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:43,593] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:35:43,593] {logging_mixin.py:109} INFO - [2022-01-13 19:35:43,593] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:43,722] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:35:43,763] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:43,784] {logging_mixin.py:109} INFO - [2022-01-13 19:35:43,784] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:43,797] {logging_mixin.py:109} INFO - [2022-01-13 19:35:43,797] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:35:43,803] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.212 seconds
+[2022-01-13 19:35:49,400] {processor.py:163} INFO - Started process (PID=2025) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:49,400] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:35:49,400] {logging_mixin.py:109} INFO - [2022-01-13 19:35:49,400] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:49,525] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:35:49,564] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:49,585] {logging_mixin.py:109} INFO - [2022-01-13 19:35:49,584] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:49,596] {logging_mixin.py:109} INFO - [2022-01-13 19:35:49,596] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:35:49,603] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.204 seconds
+[2022-01-13 19:35:54,922] {processor.py:163} INFO - Started process (PID=2045) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:54,922] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:35:54,922] {logging_mixin.py:109} INFO - [2022-01-13 19:35:54,922] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:55,055] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:35:55,103] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:35:55,124] {logging_mixin.py:109} INFO - [2022-01-13 19:35:55,124] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:35:55,136] {logging_mixin.py:109} INFO - [2022-01-13 19:35:55,136] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:35:55,143] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.222 seconds
+[2022-01-13 19:36:00,276] {processor.py:163} INFO - Started process (PID=2063) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:00,277] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:00,277] {logging_mixin.py:109} INFO - [2022-01-13 19:36:00,277] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:00,400] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:00,438] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:00,459] {logging_mixin.py:109} INFO - [2022-01-13 19:36:00,459] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:00,471] {logging_mixin.py:109} INFO - [2022-01-13 19:36:00,471] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:00,477] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.203 seconds
+[2022-01-13 19:36:03,952] {processor.py:163} INFO - Started process (PID=2078) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:03,952] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:03,953] {logging_mixin.py:109} INFO - [2022-01-13 19:36:03,953] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:04,072] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:04,111] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:04,132] {logging_mixin.py:109} INFO - [2022-01-13 19:36:04,132] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:04,144] {logging_mixin.py:109} INFO - [2022-01-13 19:36:04,144] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:04,151] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.200 seconds
+[2022-01-13 19:36:07,977] {processor.py:163} INFO - Started process (PID=2090) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:07,978] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:07,978] {logging_mixin.py:109} INFO - [2022-01-13 19:36:07,978] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:08,115] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:08,158] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:08,180] {logging_mixin.py:109} INFO - [2022-01-13 19:36:08,180] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:08,194] {logging_mixin.py:109} INFO - [2022-01-13 19:36:08,193] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:08,203] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.227 seconds
+[2022-01-13 19:36:15,454] {processor.py:163} INFO - Started process (PID=2120) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:15,455] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:15,455] {logging_mixin.py:109} INFO - [2022-01-13 19:36:15,455] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:15,597] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:15,641] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:15,665] {logging_mixin.py:109} INFO - [2022-01-13 19:36:15,664] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:15,678] {logging_mixin.py:109} INFO - [2022-01-13 19:36:15,678] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:15,686] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.233 seconds
+[2022-01-13 19:36:22,905] {processor.py:163} INFO - Started process (PID=2141) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:22,906] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:22,906] {logging_mixin.py:109} INFO - [2022-01-13 19:36:22,906] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:23,051] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:23,096] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:23,118] {logging_mixin.py:109} INFO - [2022-01-13 19:36:23,117] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:23,131] {logging_mixin.py:109} INFO - [2022-01-13 19:36:23,131] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:23,139] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.234 seconds
+[2022-01-13 19:36:29,572] {processor.py:163} INFO - Started process (PID=2160) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:29,573] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:29,573] {logging_mixin.py:109} INFO - [2022-01-13 19:36:29,573] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:29,715] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:29,762] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:29,784] {logging_mixin.py:109} INFO - [2022-01-13 19:36:29,784] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:29,798] {logging_mixin.py:109} INFO - [2022-01-13 19:36:29,798] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:29,806] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.235 seconds
+[2022-01-13 19:36:37,012] {processor.py:163} INFO - Started process (PID=2181) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:37,012] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:37,012] {logging_mixin.py:109} INFO - [2022-01-13 19:36:37,012] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:37,150] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:37,195] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:37,216] {logging_mixin.py:109} INFO - [2022-01-13 19:36:37,216] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:37,229] {logging_mixin.py:109} INFO - [2022-01-13 19:36:37,228] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:37,235] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.225 seconds
+[2022-01-13 19:36:44,066] {processor.py:163} INFO - Started process (PID=2203) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:44,067] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:44,067] {logging_mixin.py:109} INFO - [2022-01-13 19:36:44,067] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:44,201] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:44,244] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:44,265] {logging_mixin.py:109} INFO - [2022-01-13 19:36:44,265] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:44,279] {logging_mixin.py:109} INFO - [2022-01-13 19:36:44,279] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:44,286] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.221 seconds
+[2022-01-13 19:36:51,323] {processor.py:163} INFO - Started process (PID=2228) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:51,323] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:51,323] {logging_mixin.py:109} INFO - [2022-01-13 19:36:51,323] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:51,455] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:51,498] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:51,520] {logging_mixin.py:109} INFO - [2022-01-13 19:36:51,519] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:51,532] {logging_mixin.py:109} INFO - [2022-01-13 19:36:51,532] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:51,540] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.218 seconds
+[2022-01-13 19:36:58,210] {processor.py:163} INFO - Started process (PID=2252) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:58,211] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:36:58,211] {logging_mixin.py:109} INFO - [2022-01-13 19:36:58,211] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:58,340] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:36:58,379] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:36:58,398] {logging_mixin.py:109} INFO - [2022-01-13 19:36:58,398] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:36:58,410] {logging_mixin.py:109} INFO - [2022-01-13 19:36:58,410] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:36:58,418] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.208 seconds
+[2022-01-13 19:37:04,031] {processor.py:163} INFO - Started process (PID=2275) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:04,031] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:37:04,032] {logging_mixin.py:109} INFO - [2022-01-13 19:37:04,032] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:04,156] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:37:04,197] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:04,217] {logging_mixin.py:109} INFO - [2022-01-13 19:37:04,216] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:04,229] {logging_mixin.py:109} INFO - [2022-01-13 19:37:04,229] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:37:04,236] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.205 seconds
+[2022-01-13 19:37:08,213] {processor.py:163} INFO - Started process (PID=2290) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:08,214] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:37:08,214] {logging_mixin.py:109} INFO - [2022-01-13 19:37:08,214] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:08,342] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:37:08,381] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:08,400] {logging_mixin.py:109} INFO - [2022-01-13 19:37:08,400] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:08,411] {logging_mixin.py:109} INFO - [2022-01-13 19:37:08,411] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:37:08,419] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.207 seconds
+[2022-01-13 19:37:13,996] {processor.py:163} INFO - Started process (PID=2312) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:13,997] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:37:13,997] {logging_mixin.py:109} INFO - [2022-01-13 19:37:13,997] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:14,119] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:37:14,171] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:14,190] {logging_mixin.py:109} INFO - [2022-01-13 19:37:14,190] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:14,202] {logging_mixin.py:109} INFO - [2022-01-13 19:37:14,202] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:37:14,209] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.213 seconds
+[2022-01-13 19:37:18,940] {processor.py:163} INFO - Started process (PID=2331) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:18,941] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:37:18,941] {logging_mixin.py:109} INFO - [2022-01-13 19:37:18,941] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:19,068] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:37:19,109] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:19,129] {logging_mixin.py:109} INFO - [2022-01-13 19:37:19,128] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:19,140] {logging_mixin.py:109} INFO - [2022-01-13 19:37:19,140] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:37:19,147] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.207 seconds
+[2022-01-13 19:37:23,601] {processor.py:163} INFO - Started process (PID=2347) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:23,602] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:37:23,603] {logging_mixin.py:109} INFO - [2022-01-13 19:37:23,602] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:23,821] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:37:23,889] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:23,921] {logging_mixin.py:109} INFO - [2022-01-13 19:37:23,921] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:23,944] {logging_mixin.py:109} INFO - [2022-01-13 19:37:23,944] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:37:23,954] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.355 seconds
+[2022-01-13 19:37:33,317] {processor.py:163} INFO - Started process (PID=2396) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:33,317] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:37:33,318] {logging_mixin.py:109} INFO - [2022-01-13 19:37:33,318] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:33,494] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:37:33,548] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:33,573] {logging_mixin.py:109} INFO - [2022-01-13 19:37:33,573] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:33,590] {logging_mixin.py:109} INFO - [2022-01-13 19:37:33,590] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:37:33,599] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.284 seconds
+[2022-01-13 19:37:46,570] {processor.py:163} INFO - Started process (PID=2430) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:46,571] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:37:46,571] {logging_mixin.py:109} INFO - [2022-01-13 19:37:46,571] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:46,733] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:37:46,787] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:46,813] {logging_mixin.py:109} INFO - [2022-01-13 19:37:46,813] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:37:46,828] {logging_mixin.py:109} INFO - [2022-01-13 19:37:46,828] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:37:46,838] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.269 seconds
+[2022-01-13 19:37:59,939] {processor.py:163} INFO - Started process (PID=2471) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:37:59,939] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:37:59,940] {logging_mixin.py:109} INFO - [2022-01-13 19:37:59,939] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:00,109] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:38:00,161] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:00,187] {logging_mixin.py:109} INFO - [2022-01-13 19:38:00,186] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:00,205] {logging_mixin.py:109} INFO - [2022-01-13 19:38:00,204] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:38:00,214] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.277 seconds
+[2022-01-13 19:38:16,128] {processor.py:163} INFO - Started process (PID=2518) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:16,129] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:38:16,129] {logging_mixin.py:109} INFO - [2022-01-13 19:38:16,129] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:16,348] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:38:16,404] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:16,435] {logging_mixin.py:109} INFO - [2022-01-13 19:38:16,435] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:16,451] {logging_mixin.py:109} INFO - [2022-01-13 19:38:16,451] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:38:16,461] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.335 seconds
+[2022-01-13 19:38:31,999] {processor.py:163} INFO - Started process (PID=2593) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:31,999] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:38:32,000] {logging_mixin.py:109} INFO - [2022-01-13 19:38:32,000] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:32,205] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:38:32,271] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:32,303] {logging_mixin.py:109} INFO - [2022-01-13 19:38:32,302] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:32,322] {logging_mixin.py:109} INFO - [2022-01-13 19:38:32,322] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:38:32,332] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.335 seconds
+[2022-01-13 19:38:49,118] {processor.py:163} INFO - Started process (PID=2630) to work on /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:49,118] {processor.py:642} INFO - Processing file /Users/varunjain/Server/Workflow/airflow/dags/wf1.py for tasks to queue
+[2022-01-13 19:38:49,119] {logging_mixin.py:109} INFO - [2022-01-13 19:38:49,119] {dagbag.py:500} INFO - Filling up the DagBag from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:49,295] {logging_mixin.py:109} WARNING - /Users/varunjain/.virtualenvs/airflow-poc/lib/python3.8/site-packages/airflow/operators/python.py:158 DeprecationWarning: none_failed_or_skipped Trigger Rule is deprecated. Please use `none_failed_min_one_success`.
+[2022-01-13 19:38:49,347] {processor.py:654} INFO - DAG(s) dict_keys(['sample-dag-1']) retrieved from /Users/varunjain/Server/Workflow/airflow/dags/wf1.py
+[2022-01-13 19:38:49,373] {logging_mixin.py:109} INFO - [2022-01-13 19:38:49,372] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-13 19:38:49,388] {logging_mixin.py:109} INFO - [2022-01-13 19:38:49,388] {dag.py:2935} INFO - Setting next_dagrun for sample-dag-1 to None
+[2022-01-13 19:38:49,396] {processor.py:171} INFO - Processing /Users/varunjain/Server/Workflow/airflow/dags/wf1.py took 0.280 seconds
