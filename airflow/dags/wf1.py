@@ -178,7 +178,7 @@ def _verified():
 
 
 with DAG(
-        'sample-dag-1',
+        'sample-dag',
         description='A simple tutorial DAG',
         schedule_interval=None,
         start_date=datetime(2021, 1, 1),

@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flyte-poc/flytesnacks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flytesnacks" vcs="Git" />
   </component>
 </project>
