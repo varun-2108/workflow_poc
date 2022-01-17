@@ -1,6 +1,7 @@
 import random
 import time
-from flytekit.core.node_creation import create_node
+from typing import List
+
 from celery import Celery
 from celery import app
 from flytekit import task, workflow, conditional
@@ -69,7 +70,7 @@ def _file_logic_2() -> str:
 
 
 @task
-def _split_file_1(flag) -> str:
+def _split_file_1(flag: str) -> str:
     link = None
     result = app.send_task(
         "core1.tasks.split_file_1",
@@ -83,7 +84,7 @@ def _split_file_1(flag) -> str:
 
 
 @task
-def _split_file_2(flag) -> str:
+def _split_file_2(flag: str) -> str:
     link = None
     result = app.send_task(
         "core1.tasks.split_file_2",
@@ -97,7 +98,7 @@ def _split_file_2(flag) -> str:
 
 
 @task
-def _split_file_3(flag) -> str:
+def _split_file_3(flag: str) -> str:
     link = None
     result = app.send_task(
         "core1.tasks.split_file_3",
@@ -111,7 +112,7 @@ def _split_file_3(flag) -> str:
 
 
 @task
-def _merge():
+def _merge(files: List[str]) -> str:
     link = None
     result = app.send_task(
         "core1.tasks.merge",
@@ -125,7 +126,7 @@ def _merge():
 
 
 @task
-def _pending_header():
+def _pending_header(ip: str) -> str:
     sample_value = random.randint(0, 2)
     time.sleep(5)
     print("_pending_header", sample_value)
@@ -135,7 +136,7 @@ def _pending_header():
 
 
 @task
-def _ml_lineitem_parse() -> str:
+def _ml_lineitem_parse(ip: str) -> str:
     link = None
     result = app.send_task(
         "core1.tasks.ml_lineitem_parse",
@@ -149,7 +150,7 @@ def _ml_lineitem_parse() -> str:
 
 
 @task
-def _new_de_tool() -> str:
+def _new_de_tool(ip: str) -> str:
     sample_value = random.randint(0, 2)
     time.sleep(5)
     print("_new_de_tool", sample_value)
@@ -159,7 +160,7 @@ def _new_de_tool() -> str:
 
 
 @task
-def _validate(ip: str) -> bool:
+def _validate(ip: str) -> str:
     link = None
     result = app.send_task(
         "core1.tasks.validate",
@@ -173,7 +174,7 @@ def _validate(ip: str) -> bool:
 
 
 @task
-def _verified():
+def _verified(ip: str):
     link = None
     result = app.send_task(
         "core1.tasks.verified",
@@ -190,22 +191,23 @@ def _verified():
 def process_invoice():
     file_metadata = _set_file_metadata()
     file_extension = _convert_file(ip=file_metadata)
+
     is_success = conditional("file_extension_logic").if_(file_extension == "PNG").then(_file_logic_1()).else_().then(
         _file_logic_2())
 
     op_1 = _split_file_1(flag=is_success)
-    _split_file_2(flag=is_success)
-    _split_file_3(flag=is_success)
+    op_2 = _split_file_2(flag=is_success)
+    op_3 = _split_file_3(flag=is_success)
 
-    merge_node = create_node(_merge)
-    header_node = create_node(_pending_header)
-    ml_op = _ml_lineitem_parse()
+    merge_op = _merge(files=[op_1, op_2, op_3])
+    header_op = _pending_header(ip=merge_op)
+    ml_op = _ml_lineitem_parse(ip=header_op)
+
     is_validated = _validate(ip=ml_op)
 
-    # cond_op = conditional("validation_step").if_(is_validated.is_true()).then(_verified()).else_().then(
-    #     _new_de_tool())
+    de_op = _new_de_tool(ip=is_validated)
 
-    de_op = _new_de_tool()
-    _validate(ip=de_op)
+    is_validated = _validate(ip=de_op)
 
-    merge_node >> header_node
+    _verified(ip=is_validated)
+

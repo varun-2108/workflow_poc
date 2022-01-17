@@ -1,0 +1,4 @@
+celery==4.4.4
+flyteidl==0.21.22
+flytekit==0.26.0
+redis==4.1.0

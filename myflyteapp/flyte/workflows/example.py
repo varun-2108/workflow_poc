@@ -23,10 +23,6 @@ def say_hello() -> str:
     return "hello world"
 
 
-@task
-def say_hello_1() -> str:
-    return "hello world"
-
 # %%
 # Here we declare a workflow called ``my_wf``. Note the @workflow decorator,
 # Flyte finds all workflows that you have declared by finding this decorator.
@@ -47,7 +43,6 @@ def say_hello_1() -> str:
 @workflow
 def my_wf() -> str:
     res = say_hello()
-    res = say_hello_1()
     return res
 
 
